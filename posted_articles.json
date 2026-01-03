@@ -1,14 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/": "2025-12-03T21:06:07.361284",
-  "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/": "2025-12-03T21:06:07.861174",
-  "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/": "2025-12-03T22:07:15.011704",
-  "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/": "2025-12-03T22:07:15.514959",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/": "2025-12-04T14:06:57.275029",
-  "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/": "2025-12-04T16:07:59.002514",
-  "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/": "2025-12-04T16:07:59.383812",
-  "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/": "2025-12-04T17:08:34.843433",
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/": "2025-12-04T19:06:40.607109",
-  "https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/": "2025-12-04T20:07:10.233400",
   "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/": "2025-12-04T23:06:30.060012",
   "https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/": "2025-12-04T23:06:30.538996",
   "https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/": "2025-12-05T09:07:20.891773",
@@ -181,5 +171,6 @@
   "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/": "2026-01-02T16:07:08.341440",
   "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/": "2026-01-02T16:07:08.857429",
   "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/": "2026-01-02T18:08:58.551672",
-  "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/": "2026-01-02T19:05:20.035901"
+  "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/": "2026-01-02T19:05:20.035901",
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/": "2026-01-03T21:05:38.021336"
 }
