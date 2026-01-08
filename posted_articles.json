@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/": "2025-12-09T16:07:58.908432",
-  "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/": "2025-12-09T16:07:59.467293",
-  "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/": "2025-12-09T17:07:39.697537",
   "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/": "2025-12-09T18:07:55.453426",
   "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/": "2025-12-09T18:07:55.857594",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/": "2025-12-09T19:05:37.588588",
@@ -186,5 +183,6 @@
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/": "2026-01-08T10:07:59.900181",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/": "2026-01-08T12:11:57.176200",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/": "2026-01-08T13:19:16.999369",
-  "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/": "2026-01-08T15:08:52.450091"
+  "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/": "2026-01-08T15:08:52.450091",
+  "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/": "2026-01-08T17:10:20.369947"
 }
