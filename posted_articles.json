@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/": "2025-12-09T12:11:34.855344",
   "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/": "2025-12-09T16:07:58.908432",
   "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/": "2025-12-09T16:07:59.467293",
   "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/": "2025-12-09T17:07:39.697537",
@@ -184,5 +183,6 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/": "2026-01-08T00:28:09.041426",
   "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/": "2026-01-08T00:28:09.643312",
   "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/": "2026-01-08T08:09:29.664744",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/": "2026-01-08T10:07:59.900181"
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/": "2026-01-08T10:07:59.900181",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/": "2026-01-08T12:11:57.176200"
 }
