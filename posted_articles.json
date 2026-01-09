@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/": "2025-12-09T23:06:53.845861",
   "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/": "2025-12-10T13:17:55.071958",
   "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/": "2025-12-10T15:08:22.687353",
   "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/": "2025-12-10T15:08:23.204571",
@@ -181,5 +180,7 @@
   "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/": "2026-01-08T21:07:08.626758",
   "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/": "2026-01-08T21:07:09.236608",
   "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/": "2026-01-08T22:06:45.105866",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/": "2026-01-08T23:06:29.450274"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/": "2026-01-08T23:06:29.450274",
+  "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/": "2026-01-09T00:27:40.085326",
+  "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/": "2026-01-09T00:27:40.681963"
 }
