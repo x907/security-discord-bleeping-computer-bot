@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/": "2025-12-14T16:06:41.331072",
-  "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/": "2025-12-14T16:06:41.686859",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/": "2025-12-15T09:11:44.028069",
   "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/": "2025-12-15T11:06:30.221657",
   "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/": "2025-12-15T13:19:17.541483",
@@ -184,5 +182,6 @@
   "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/": "2026-01-12T21:06:55.297017",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/": "2026-01-12T21:06:55.693550",
   "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/": "2026-01-13T00:23:40.259834",
-  "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/": "2026-01-13T13:19:29.065211"
+  "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/": "2026-01-13T13:19:29.065211",
+  "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/": "2026-01-13T16:09:38.088925"
 }
