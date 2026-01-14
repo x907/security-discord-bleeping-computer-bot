@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/": "2025-12-15T17:09:42.605882",
   "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/": "2025-12-15T19:07:04.490298",
   "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/": "2025-12-15T22:06:51.384325",
   "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/": "2025-12-15T23:07:10.440030",
@@ -195,5 +194,6 @@
   "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/": "2026-01-14T12:11:33.790935",
   "https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/": "2026-01-14T12:11:34.385745",
   "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": "2026-01-14T14:08:57.279613",
-  "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": "2026-01-14T16:09:20.359456"
+  "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": "2026-01-14T16:09:20.359456",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/": "2026-01-14T17:10:38.625347"
 }
