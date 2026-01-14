@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/": "2025-12-15T19:07:04.490298",
   "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/": "2025-12-15T22:06:51.384325",
   "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/": "2025-12-15T23:07:10.440030",
   "https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/": "2025-12-16T00:27:41.831767",
@@ -197,5 +196,6 @@
   "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": "2026-01-14T16:09:20.359456",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/": "2026-01-14T17:10:38.625347",
   "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/": "2026-01-14T19:06:42.842829",
-  "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/": "2026-01-14T19:06:43.269432"
+  "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/": "2026-01-14T19:06:43.269432",
+  "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/": "2026-01-14T20:06:37.653956"
 }
