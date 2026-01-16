@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/": "2025-12-17T13:17:19.299933",
   "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/": "2025-12-17T15:07:33.056474",
   "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/": "2025-12-17T17:09:09.770995",
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/": "2025-12-17T18:09:54.254027",
@@ -202,5 +201,7 @@
   "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/": "2026-01-16T01:35:26.455232",
   "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/": "2026-01-16T07:09:45.847266",
   "https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/": "2026-01-16T09:09:15.331529",
-  "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/": "2026-01-16T10:07:15.390211"
+  "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/": "2026-01-16T10:07:15.390211",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/": "2026-01-16T13:18:12.666379",
+  "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/": "2026-01-16T13:18:13.099271"
 }
