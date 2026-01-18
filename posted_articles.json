@@ -1,13 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/": "2025-12-18T10:07:18.015220",
-  "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/": "2025-12-18T12:11:17.937601",
-  "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/": "2025-12-18T14:07:27.106478",
-  "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/": "2025-12-18T16:08:37.508173",
-  "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/": "2025-12-18T17:08:46.786678",
-  "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/": "2025-12-18T18:09:32.676510",
-  "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/": "2025-12-18T21:06:41.781892",
-  "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/": "2025-12-18T21:06:42.304796",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/": "2025-12-19T01:35:07.637415",
   "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": "2025-12-19T10:07:03.127280",
   "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/": "2025-12-19T11:06:21.126399",
   "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/": "2025-12-19T13:16:02.968072",
@@ -201,5 +192,8 @@
   "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/": "2026-01-16T19:07:22.617425",
   "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/": "2026-01-16T21:06:57.664206",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/": "2026-01-17T00:26:36.256255",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/": "2026-01-17T00:26:36.732092"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/": "2026-01-17T00:26:36.732092",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/": "2026-01-18T02:50:37.922818",
+  "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/": "2026-01-18T02:50:38.279059",
+  "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/": "2026-01-18T02:50:38.662498"
 }
