@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/": "2025-12-23T14:07:18.606596",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/": "2025-12-23T14:07:19.280415",
   "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/": "2025-12-23T20:06:42.966396",
   "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/": "2025-12-24T16:07:27.039896",
   "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/": "2025-12-24T16:07:27.642411",
@@ -207,5 +205,7 @@
   "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/": "2026-01-21T23:08:34.955116",
   "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/": "2026-01-22T00:29:44.143292",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/": "2026-01-22T12:12:42.784717",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/": "2026-01-22T13:21:27.369402"
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/": "2026-01-22T13:21:27.369402",
+  "https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/": "2026-01-22T15:11:19.729786",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/": "2026-01-22T15:11:20.152273"
 }
