@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/": "2025-12-23T20:06:42.966396",
   "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/": "2025-12-24T16:07:27.039896",
   "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/": "2025-12-24T16:07:27.642411",
   "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/": "2025-12-24T16:07:28.333760",
@@ -211,5 +210,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/": "2026-01-22T17:11:37.531464",
   "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/": "2026-01-22T17:11:38.243099",
   "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/": "2026-01-22T19:09:59.889453",
-  "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/": "2026-01-22T19:10:00.603100"
+  "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/": "2026-01-22T19:10:00.603100",
+  "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/": "2026-01-22T22:07:21.039426"
 }
