@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/": "2025-12-23T10:07:11.575473",
-  "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/": "2025-12-23T11:06:30.802328",
   "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/": "2025-12-23T13:17:27.385518",
   "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/": "2025-12-23T14:07:18.606596",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/": "2025-12-23T14:07:19.280415",
@@ -208,5 +206,6 @@
   "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/": "2026-01-21T21:11:04.120861",
   "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/": "2026-01-21T23:08:34.582732",
   "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/": "2026-01-21T23:08:34.955116",
-  "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/": "2026-01-22T00:29:44.143292"
+  "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/": "2026-01-22T00:29:44.143292",
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/": "2026-01-22T12:12:42.784717"
 }
