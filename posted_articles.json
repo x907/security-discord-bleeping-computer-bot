@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/": "2025-12-24T16:07:27.039896",
-  "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/": "2025-12-24T16:07:27.642411",
-  "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/": "2025-12-24T16:07:28.333760",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/": "2025-12-24T23:06:23.837951",
   "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/": "2025-12-24T23:06:24.425281",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/": "2025-12-24T23:06:24.953511",
@@ -215,5 +212,7 @@
   "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/": "2026-01-23T11:07:23.372639",
   "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/": "2026-01-23T13:20:14.725513",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/": "2026-01-23T14:09:12.412860",
-  "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/": "2026-01-23T15:08:44.345069"
+  "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/": "2026-01-23T15:08:44.345069",
+  "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/": "2026-01-23T17:10:09.406038",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/": "2026-01-23T17:10:10.047921"
 }
