@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/": "2025-12-28T18:08:59.329614",
-  "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/": "2025-12-28T21:06:10.589234",
   "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/": "2025-12-29T12:12:02.533139",
   "https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/": "2025-12-29T13:18:14.011329",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/": "2025-12-29T13:18:14.379910",
@@ -228,5 +226,6 @@
   "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/": "2026-01-27T15:11:52.454258",
   "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/": "2026-01-27T17:10:55.508413",
   "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/": "2026-01-27T17:10:56.113694",
-  "https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/": "2026-01-27T17:10:56.983947"
+  "https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/": "2026-01-27T17:10:56.983947",
+  "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": "2026-01-27T23:07:07.654128"
 }
