@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/": "2025-12-30T00:27:15.452008",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/": "2025-12-30T15:07:09.843496",
   "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/": "2025-12-30T16:07:29.628464",
   "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/": "2025-12-30T17:07:24.404996",
@@ -230,5 +229,6 @@
   "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/": "2026-01-28T18:11:51.738838",
   "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/": "2026-01-28T21:10:35.093509",
   "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/": "2026-01-28T21:10:35.594806",
-  "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/": "2026-01-28T23:09:19.003236"
+  "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/": "2026-01-28T23:09:19.003236",
+  "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/": "2026-01-29T00:31:59.361561"
 }
