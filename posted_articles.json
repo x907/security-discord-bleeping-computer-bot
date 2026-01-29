@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/": "2025-12-30T16:07:29.628464",
-  "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/": "2025-12-30T17:07:24.404996",
-  "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/": "2025-12-30T17:07:24.854495",
   "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/": "2025-12-30T22:06:19.542297",
   "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/": "2025-12-31T10:06:51.504290",
   "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/": "2025-12-31T11:06:23.716413",
@@ -234,5 +231,7 @@
   "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/": "2026-01-29T14:18:32.569674",
   "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/": "2026-01-29T15:14:53.716454",
   "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/": "2026-01-29T15:14:54.309548",
-  "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/": "2026-01-29T15:14:54.947213"
+  "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/": "2026-01-29T15:14:54.947213",
+  "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/": "2026-01-29T18:15:45.984721",
+  "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/": "2026-01-29T18:15:46.522666"
 }
