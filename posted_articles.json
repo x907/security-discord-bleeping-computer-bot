@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/": "2025-12-30T22:06:19.542297",
   "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/": "2025-12-31T10:06:51.504290",
   "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/": "2025-12-31T11:06:23.716413",
   "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/": "2025-12-31T15:06:52.436284",
@@ -234,5 +233,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/": "2026-01-29T15:14:54.947213",
   "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/": "2026-01-29T18:15:45.984721",
   "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/": "2026-01-29T18:15:46.522666",
-  "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/": "2026-01-29T20:09:47.015040"
+  "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/": "2026-01-29T20:09:47.015040",
+  "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/": "2026-01-29T22:08:53.907056",
+  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/": "2026-01-29T22:08:54.470744"
 }
