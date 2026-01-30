@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/": "2025-12-31T16:07:51.200472",
   "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/": "2025-12-31T23:06:42.937021",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/": "2026-01-01T20:07:02.704472",
   "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/": "2026-01-01T20:07:03.202439",
@@ -235,5 +234,7 @@
   "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/": "2026-01-29T22:08:54.470744",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/": "2026-01-30T00:32:41.179940",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/": "2026-01-30T12:14:37.736171",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/": "2026-01-30T15:13:35.038662"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/": "2026-01-30T15:13:35.038662",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/": "2026-01-30T17:15:43.124159",
+  "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/": "2026-01-30T17:15:43.661643"
 }
