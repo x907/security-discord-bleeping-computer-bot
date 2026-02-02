@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/": "2026-01-03T21:05:38.021336",
-  "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/": "2026-01-03T23:06:48.182789",
   "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/": "2026-01-05T15:07:55.191867",
   "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/": "2026-01-05T16:08:33.985927",
   "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/": "2026-01-05T16:08:34.586408",
@@ -242,5 +240,8 @@
   "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/": "2026-02-02T14:19:06.747708",
   "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/": "2026-02-02T16:12:16.653917",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/": "2026-02-02T17:17:55.437854",
-  "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/": "2026-02-02T18:15:48.615354"
+  "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/": "2026-02-02T18:15:48.615354",
+  "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/": "2026-02-02T23:09:38.817076",
+  "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/": "2026-02-02T23:09:39.298141",
+  "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/": "2026-02-02T23:09:39.888101"
 }
