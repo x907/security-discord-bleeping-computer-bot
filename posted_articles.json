@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/": "2026-01-06T19:05:21.812916",
-  "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/": "2026-01-06T20:07:14.119869",
-  "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/": "2026-01-06T20:07:14.710274",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/": "2026-01-06T21:06:28.977025",
   "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/": "2026-01-06T23:06:52.105049",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/": "2026-01-07T01:35:24.983722",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/": "2026-01-07T11:06:56.117478",
@@ -258,5 +254,6 @@
   "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/": "2026-02-05T15:17:55.435011",
   "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/": "2026-02-05T15:17:55.962209",
   "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/": "2026-02-05T17:20:50.777392",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/": "2026-02-05T18:22:09.023466"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/": "2026-02-05T18:22:09.023466",
+  "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/": "2026-02-05T21:10:54.894058"
 }
