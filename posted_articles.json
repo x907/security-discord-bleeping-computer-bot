@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/": "2026-01-07T17:09:27.732871",
-  "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/": "2026-01-07T17:09:28.225014",
   "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/": "2026-01-07T18:09:43.276673",
   "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/": "2026-01-07T18:09:43.923633",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/": "2026-01-07T21:06:43.243095",
@@ -254,5 +252,6 @@
   "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/": "2026-02-06T10:17:20.469904",
   "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/": "2026-02-06T13:29:32.225264",
   "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/": "2026-02-06T14:19:58.845802",
-  "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/": "2026-02-06T15:18:02.982561"
+  "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/": "2026-02-06T15:18:02.982561",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/": "2026-02-06T17:18:59.319109"
 }
