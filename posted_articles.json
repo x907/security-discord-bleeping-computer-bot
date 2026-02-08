@@ -1,16 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/": "2026-01-08T17:10:20.369947",
-  "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/": "2026-01-08T21:07:08.626758",
-  "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/": "2026-01-08T21:07:09.236608",
-  "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/": "2026-01-08T22:06:45.105866",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/": "2026-01-08T23:06:29.450274",
-  "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/": "2026-01-09T00:27:40.085326",
-  "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/": "2026-01-09T00:27:40.681963",
-  "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/": "2026-01-09T04:21:11.998110",
-  "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/": "2026-01-09T11:06:41.559505",
-  "https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/": "2026-01-09T14:07:41.138585",
-  "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/": "2026-01-09T16:07:51.142734",
-  "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/": "2026-01-09T16:07:51.641955",
   "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/": "2026-01-09T20:07:50.088229",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/": "2026-01-09T21:07:03.668341",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/": "2026-01-10T00:27:21.790405",
@@ -245,5 +233,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/": "2026-02-06T17:18:59.319109",
   "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/": "2026-02-06T19:18:34.623702",
   "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/": "2026-02-07T10:08:03.491657",
-  "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/": "2026-02-07T16:09:03.539994"
+  "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/": "2026-02-07T16:09:03.539994",
+  "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/": "2026-02-08T16:09:35.966182"
 }
