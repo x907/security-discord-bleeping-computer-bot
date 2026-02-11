@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/": "2026-01-12T18:09:57.061474",
   "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/": "2026-01-12T19:07:42.326810",
   "https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/": "2026-01-12T20:07:15.670698",
   "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/": "2026-01-12T21:06:55.297017",
@@ -240,5 +239,6 @@
   "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/": "2026-02-10T22:17:45.157811",
   "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/": "2026-02-10T23:17:10.134184",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": "2026-02-11T03:07:58.704037",
-  "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/": "2026-02-11T17:25:30.352568"
+  "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/": "2026-02-11T17:25:30.352568",
+  "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/": "2026-02-11T18:25:31.003760"
 }
