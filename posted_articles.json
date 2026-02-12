@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/": "2026-01-13T00:23:40.259834",
   "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/": "2026-01-13T13:19:29.065211",
   "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/": "2026-01-13T16:09:38.088925",
   "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/": "2026-01-13T17:10:21.350793",
@@ -239,5 +238,6 @@
   "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/": "2026-02-11T18:25:31.003760",
   "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/": "2026-02-11T19:25:51.155695",
   "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/": "2026-02-11T20:14:12.792018",
-  "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/": "2026-02-11T22:10:57.357541"
+  "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/": "2026-02-11T22:10:57.357541",
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": "2026-02-12T00:34:09.016449"
 }
