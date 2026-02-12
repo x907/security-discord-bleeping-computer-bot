@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/": "2026-01-13T20:07:25.146075",
-  "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/": "2026-01-13T20:07:25.843885",
-  "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/": "2026-01-13T21:07:04.063966",
-  "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/": "2026-01-13T21:07:04.598397",
   "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/": "2026-01-13T23:07:01.874859",
   "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/": "2026-01-13T23:07:02.441648",
   "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/": "2026-01-14T09:10:31.795987",
@@ -239,5 +235,6 @@
   "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/": "2026-02-12T15:21:31.276552",
   "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/": "2026-02-12T17:26:00.238765",
   "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/": "2026-02-12T18:24:02.420531",
-  "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/": "2026-02-12T19:26:28.766504"
+  "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/": "2026-02-12T19:26:28.766504",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/": "2026-02-12T21:12:33.993229"
 }
