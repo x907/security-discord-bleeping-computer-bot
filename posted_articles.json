@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/": "2026-01-13T13:19:29.065211",
   "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/": "2026-01-13T16:09:38.088925",
   "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/": "2026-01-13T17:10:21.350793",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/": "2026-01-13T19:06:57.684058",
@@ -241,5 +240,6 @@
   "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/": "2026-02-11T22:10:57.357541",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": "2026-02-12T00:34:09.016449",
   "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/": "2026-02-12T01:38:29.323887",
-  "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/": "2026-02-12T07:26:28.623947"
+  "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/": "2026-02-12T07:26:28.623947",
+  "https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/": "2026-02-12T14:24:36.657580"
 }
