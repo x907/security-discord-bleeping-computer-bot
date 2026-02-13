@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": "2026-01-14T14:08:57.279613",
-  "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": "2026-01-14T16:09:20.359456",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/": "2026-01-14T17:10:38.625347",
   "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/": "2026-01-14T19:06:42.842829",
   "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/": "2026-01-14T19:06:43.269432",
@@ -235,5 +233,6 @@
   "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/": "2026-02-12T22:10:39.918482",
   "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/": "2026-02-12T23:10:09.910147",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/": "2026-02-13T10:18:02.583327",
-  "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/": "2026-02-13T13:30:11.482436"
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/": "2026-02-13T13:30:11.482436",
+  "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/": "2026-02-13T16:18:17.341421"
 }
