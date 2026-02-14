@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/": "2026-01-15T04:22:19.320764",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/": "2026-01-15T04:22:20.104324",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/": "2026-01-15T04:22:20.689604",
-  "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/": "2026-01-15T08:09:38.771870",
-  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/": "2026-01-15T09:09:50.985288",
-  "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/": "2026-01-15T10:07:19.798699",
-  "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/": "2026-01-15T15:08:16.426911",
   "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/": "2026-01-15T17:13:55.997634",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/": "2026-01-15T19:10:44.506442",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/": "2026-01-15T21:06:50.836864",
@@ -231,5 +224,7 @@
   "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/": "2026-02-13T16:18:17.341421",
   "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/": "2026-02-13T19:19:27.802232",
   "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/": "2026-02-13T21:14:22.050100",
-  "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/": "2026-02-13T23:12:21.325300"
+  "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/": "2026-02-13T23:12:21.325300",
+  "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/": "2026-02-14T16:08:51.943334",
+  "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/": "2026-02-14T16:08:52.640921"
 }
