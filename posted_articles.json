@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/": "2026-01-18T19:04:56.681818",
-  "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/": "2026-01-18T19:04:57.116727",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/": "2026-01-18T19:04:57.673333",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/": "2026-01-19T00:29:58.729775",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/": "2026-01-19T10:09:41.497362",
   "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/": "2026-01-19T14:11:06.330786",
@@ -221,5 +218,6 @@
   "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/": "2026-02-17T12:18:00.608629",
   "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/": "2026-02-17T14:22:27.326471",
   "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/": "2026-02-17T15:21:19.565089",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": "2026-02-17T16:22:49.297987"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": "2026-02-17T16:22:49.297987",
+  "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/": "2026-02-17T19:22:58.331911"
 }
