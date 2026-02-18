@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/": "2026-01-19T18:09:44.256265",
-  "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/": "2026-01-19T21:06:38.676691",
   "https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/": "2026-01-19T23:06:34.254673",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/": "2026-01-20T01:35:40.551640",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/": "2026-01-20T01:35:41.074607",
@@ -222,5 +220,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/": "2026-02-18T12:18:03.943193",
   "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/": "2026-02-18T14:21:58.776153",
   "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/": "2026-02-18T17:26:55.989403",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/": "2026-02-18T17:26:56.585661"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/": "2026-02-18T17:26:56.585661",
+  "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/": "2026-02-18T21:15:51.397008",
+  "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/": "2026-02-18T21:15:51.945825"
 }
