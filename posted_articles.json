@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/": "2026-01-19T15:09:00.004265",
-  "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/": "2026-01-19T16:08:35.167846",
   "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/": "2026-01-19T18:09:44.256265",
   "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/": "2026-01-19T21:06:38.676691",
   "https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/": "2026-01-19T23:06:34.254673",
@@ -222,5 +220,7 @@
   "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/": "2026-02-18T00:34:49.636203",
   "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/": "2026-02-18T11:19:18.944513",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/": "2026-02-18T12:18:03.943193",
-  "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/": "2026-02-18T14:21:58.776153"
+  "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/": "2026-02-18T14:21:58.776153",
+  "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/": "2026-02-18T17:26:55.989403",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/": "2026-02-18T17:26:56.585661"
 }
