@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/": "2026-01-21T14:12:44.886366",
-  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": "2026-01-21T14:12:45.299715",
-  "https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/": "2026-01-21T15:11:27.862927",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/": "2026-01-21T16:12:19.780192",
   "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/": "2026-01-21T17:26:51.956857",
   "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/": "2026-01-21T18:17:36.885279",
@@ -221,5 +218,6 @@
   "https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/": "2026-02-20T09:17:26.299548",
   "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/": "2026-02-20T10:15:10.467416",
   "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/": "2026-02-20T12:15:55.883688",
-  "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/": "2026-02-20T13:28:49.293622"
+  "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/": "2026-02-20T13:28:49.293622",
+  "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/": "2026-02-20T15:18:10.900446"
 }
