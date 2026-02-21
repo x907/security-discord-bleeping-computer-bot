@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/": "2026-01-22T15:11:19.729786",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/": "2026-01-22T15:11:20.152273",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/": "2026-01-22T17:11:37.531464",
   "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/": "2026-01-22T17:11:38.243099",
   "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/": "2026-01-22T19:09:59.889453",
@@ -214,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/": "2026-02-20T17:16:56.845168",
   "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/": "2026-02-20T17:16:57.399765",
   "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/": "2026-02-20T19:18:02.908717",
-  "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/": "2026-02-21T14:08:48.249604"
+  "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/": "2026-02-21T14:08:48.249604",
+  "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/": "2026-02-21T17:09:10.929774"
 }
