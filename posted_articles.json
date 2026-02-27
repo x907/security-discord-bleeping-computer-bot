@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": "2026-01-27T23:07:07.654128",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/": "2026-01-28T00:28:26.988654",
-  "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/": "2026-01-28T00:28:27.349221",
-  "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/": "2026-01-28T12:12:33.848423",
-  "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/": "2026-01-28T13:22:40.707832",
-  "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/": "2026-01-28T13:22:41.262828",
   "https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/": "2026-01-28T15:12:05.880061",
   "https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/": "2026-01-28T15:12:06.373711",
   "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/": "2026-01-28T18:11:50.588259",
@@ -213,5 +207,6 @@
   "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/": "2026-02-26T17:26:40.333075",
   "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/": "2026-02-26T18:20:04.499192",
   "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/": "2026-02-26T18:20:05.063299",
-  "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/": "2026-02-26T21:14:13.087281"
+  "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/": "2026-02-26T21:14:13.087281",
+  "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/": "2026-02-27T13:28:13.031279"
 }
