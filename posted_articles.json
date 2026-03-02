@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/": "2026-01-31T15:06:59.566659",
   "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/": "2026-01-31T16:08:12.826879",
   "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/": "2026-01-31T17:08:24.408406",
   "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/": "2026-01-31T18:09:33.313621",
@@ -193,5 +192,6 @@
   "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/": "2026-02-28T20:07:48.413486",
   "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/": "2026-03-01T16:08:03.764719",
   "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/": "2026-03-01T22:06:50.140452",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/": "2026-03-02T13:29:46.679284"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/": "2026-03-02T13:29:46.679284",
+  "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/": "2026-03-02T15:18:45.273770"
 }
