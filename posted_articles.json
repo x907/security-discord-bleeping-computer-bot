@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/": "2026-02-02T10:20:45.524328",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/": "2026-02-02T12:16:02.867289",
-  "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/": "2026-02-02T14:19:06.747708",
   "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/": "2026-02-02T16:12:16.653917",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/": "2026-02-02T17:17:55.437854",
   "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/": "2026-02-02T18:15:48.615354",
@@ -202,5 +199,6 @@
   "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/": "2026-03-03T21:12:44.057989",
   "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/": "2026-03-03T23:08:51.526707",
   "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/": "2026-03-03T23:08:51.982132",
-  "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/": "2026-03-04T00:32:42.379803"
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/": "2026-03-04T00:32:42.379803",
+  "https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/": "2026-03-04T15:16:22.277044"
 }
