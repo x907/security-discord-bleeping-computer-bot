@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/": "2026-02-04T16:19:40.678921",
-  "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/": "2026-02-04T18:19:32.769539",
   "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/": "2026-02-04T22:07:44.112540",
   "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/": "2026-02-05T00:34:15.920074",
   "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/": "2026-02-05T11:17:13.821262",
@@ -205,5 +203,6 @@
   "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/": "2026-03-06T15:15:33.228475",
   "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/": "2026-03-06T15:15:33.868557",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/": "2026-03-06T15:15:34.648081",
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/": "2026-03-06T16:14:29.206812"
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/": "2026-03-06T16:14:29.206812",
+  "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/": "2026-03-06T20:10:30.478362"
 }
