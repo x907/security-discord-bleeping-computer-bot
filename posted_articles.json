@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/": "2026-02-04T22:07:44.112540",
-  "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/": "2026-02-05T00:34:15.920074",
-  "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/": "2026-02-05T11:17:13.821262",
-  "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/": "2026-02-05T11:17:14.395861",
-  "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/": "2026-02-05T13:31:32.488688",
-  "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/": "2026-02-05T15:17:55.435011",
-  "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/": "2026-02-05T15:17:55.962209",
   "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/": "2026-02-05T17:20:50.777392",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/": "2026-02-05T18:22:09.023466",
   "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/": "2026-02-05T21:10:54.894058",
@@ -204,5 +197,6 @@
   "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/": "2026-03-06T15:15:33.868557",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/": "2026-03-06T15:15:34.648081",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/": "2026-03-06T16:14:29.206812",
-  "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/": "2026-03-06T20:10:30.478362"
+  "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/": "2026-03-06T20:10:30.478362",
+  "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/": "2026-03-07T16:07:56.528265"
 }
