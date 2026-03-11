@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/": "2026-02-09T13:35:21.436838",
-  "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/": "2026-02-09T15:23:06.849868",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/": "2026-02-09T19:32:34.397877",
   "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/": "2026-02-09T21:17:28.328891",
   "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/": "2026-02-09T23:16:17.632036",
@@ -205,5 +203,7 @@
   "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/": "2026-03-10T20:11:06.747209",
   "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/": "2026-03-10T22:08:34.795153",
   "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/": "2026-03-10T23:09:22.946971",
-  "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/": "2026-03-11T13:31:31.491550"
+  "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/": "2026-03-11T13:31:31.491550",
+  "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/": "2026-03-11T17:21:52.775328",
+  "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/": "2026-03-11T17:21:53.192942"
 }
