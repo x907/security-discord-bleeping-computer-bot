@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/": "2026-02-09T10:27:00.210923",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/": "2026-02-09T11:21:01.974325",
-  "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/": "2026-02-09T12:21:25.607155",
   "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/": "2026-02-09T13:35:21.436838",
   "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/": "2026-02-09T15:23:06.849868",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/": "2026-02-09T19:32:34.397877",
@@ -207,5 +204,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/": "2026-03-10T19:18:56.904206",
   "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/": "2026-03-10T20:11:06.747209",
   "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/": "2026-03-10T22:08:34.795153",
-  "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/": "2026-03-10T23:09:22.946971"
+  "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/": "2026-03-10T23:09:22.946971",
+  "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/": "2026-03-11T13:31:31.491550"
 }
