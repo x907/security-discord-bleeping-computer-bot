@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/": "2026-02-11T17:25:30.352568",
-  "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/": "2026-02-11T18:25:31.003760",
-  "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/": "2026-02-11T19:25:51.155695",
-  "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/": "2026-02-11T20:14:12.792018",
   "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/": "2026-02-11T22:10:57.357541",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": "2026-02-12T00:34:09.016449",
   "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/": "2026-02-12T01:38:29.323887",
@@ -208,5 +204,6 @@
   "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/": "2026-03-13T13:29:29.384125",
   "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/": "2026-03-13T15:19:14.450052",
   "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/": "2026-03-13T17:15:36.953781",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/": "2026-03-13T17:15:37.555589"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/": "2026-03-13T17:15:37.555589",
+  "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/": "2026-03-13T21:12:59.333406"
 }
