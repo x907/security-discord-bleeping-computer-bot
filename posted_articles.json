@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/": "2026-02-17T19:22:58.331911",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/": "2026-02-17T21:14:07.256685",
   "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/": "2026-02-17T22:10:07.831251",
   "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/": "2026-02-18T00:34:49.636203",
@@ -203,5 +202,6 @@
   "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/": "2026-03-19T14:24:59.766562",
   "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/": "2026-03-19T15:20:07.161569",
   "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/": "2026-03-19T16:23:19.030634",
-  "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/": "2026-03-19T17:24:30.823290"
+  "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/": "2026-03-19T17:24:30.823290",
+  "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/": "2026-03-19T20:14:23.348541"
 }
