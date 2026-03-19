@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/": "2026-02-17T15:21:19.565089",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": "2026-02-17T16:22:49.297987",
   "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/": "2026-02-17T19:22:58.331911",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/": "2026-02-17T21:14:07.256685",
   "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/": "2026-02-17T22:10:07.831251",
@@ -203,5 +201,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/": "2026-03-19T11:16:48.054685",
   "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/": "2026-03-19T13:33:39.251491",
   "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/": "2026-03-19T14:24:59.766562",
-  "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/": "2026-03-19T15:20:07.161569"
+  "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/": "2026-03-19T15:20:07.161569",
+  "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/": "2026-03-19T16:23:19.030634"
 }
