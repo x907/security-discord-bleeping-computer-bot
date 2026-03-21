@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/": "2026-02-18T21:15:51.397008",
-  "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/": "2026-02-18T21:15:51.945825",
-  "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/": "2026-02-19T10:19:32.582491",
-  "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/": "2026-02-19T12:18:48.796024",
-  "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/": "2026-02-19T13:33:29.241406",
-  "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/": "2026-02-19T13:33:29.833224",
-  "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/": "2026-02-19T14:24:19.188990",
   "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/": "2026-02-19T15:19:42.342538",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/": "2026-02-19T16:21:26.860923",
   "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/": "2026-02-19T17:22:51.417215",
@@ -205,5 +198,7 @@
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/": "2026-03-20T15:19:07.665247",
   "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/": "2026-03-20T18:17:05.681205",
   "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/": "2026-03-20T19:17:53.309082",
-  "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/": "2026-03-20T21:10:39.087558"
+  "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/": "2026-03-20T21:10:39.087558",
+  "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": "2026-03-21T15:08:37.748307",
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": "2026-03-21T15:08:38.238175"
 }
