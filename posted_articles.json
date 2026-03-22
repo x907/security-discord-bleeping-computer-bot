@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/": "2026-02-19T19:19:36.494942",
-  "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/": "2026-02-19T23:11:39.866787",
-  "https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/": "2026-02-20T09:17:26.299548",
-  "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/": "2026-02-20T10:15:10.467416",
-  "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/": "2026-02-20T12:15:55.883688",
-  "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/": "2026-02-20T13:28:49.293622",
   "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/": "2026-02-20T15:18:10.900446",
   "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/": "2026-02-20T17:16:56.845168",
   "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/": "2026-02-20T17:16:57.399765",
@@ -198,5 +192,6 @@
   "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/": "2026-03-20T21:10:39.087558",
   "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": "2026-03-21T15:08:37.748307",
   "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": "2026-03-21T15:08:38.238175",
-  "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/": "2026-03-21T18:10:47.245740"
+  "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/": "2026-03-21T18:10:47.245740",
+  "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/": "2026-03-22T15:09:03.881233"
 }
