@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/": "2026-02-20T15:18:10.900446",
-  "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/": "2026-02-20T17:16:56.845168",
-  "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/": "2026-02-20T17:16:57.399765",
-  "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/": "2026-02-20T19:18:02.908717",
   "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/": "2026-02-21T14:08:48.249604",
   "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/": "2026-02-21T17:09:10.929774",
   "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/": "2026-02-23T12:19:08.218126",
@@ -193,5 +189,6 @@
   "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": "2026-03-21T15:08:37.748307",
   "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": "2026-03-21T15:08:38.238175",
   "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/": "2026-03-21T18:10:47.245740",
-  "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/": "2026-03-22T15:09:03.881233"
+  "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/": "2026-03-22T15:09:03.881233",
+  "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/": "2026-03-23T08:24:15.937792"
 }
