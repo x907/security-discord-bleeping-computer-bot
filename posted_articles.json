@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/": "2026-02-26T15:21:01.382333",
-  "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/": "2026-02-26T16:22:49.655504",
-  "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/": "2026-02-26T17:26:40.333075",
-  "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/": "2026-02-26T18:20:04.499192",
-  "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/": "2026-02-26T18:20:05.063299",
-  "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/": "2026-02-26T21:14:13.087281",
-  "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/": "2026-02-27T13:28:13.031279",
   "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/": "2026-02-27T15:17:36.537212",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/": "2026-02-27T16:14:31.095405",
   "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/": "2026-02-27T19:16:16.127546",
@@ -206,5 +199,6 @@
   "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/": "2026-03-27T16:22:08.298192",
   "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/": "2026-03-27T17:21:17.326631",
   "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/": "2026-03-27T21:14:11.778016",
-  "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/": "2026-03-28T15:11:14.816875"
+  "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/": "2026-03-28T15:11:14.816875",
+  "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/": "2026-03-29T15:11:32.905804"
 }
