@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/": "2026-02-27T15:17:36.537212",
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/": "2026-02-27T16:14:31.095405",
-  "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/": "2026-02-27T19:16:16.127546",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/": "2026-02-27T20:10:13.706782",
-  "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/": "2026-02-27T20:10:14.171423",
   "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/": "2026-02-28T16:08:08.767798",
   "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/": "2026-02-28T20:07:48.413486",
   "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/": "2026-03-01T16:08:03.764719",
@@ -200,5 +195,6 @@
   "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/": "2026-03-27T17:21:17.326631",
   "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/": "2026-03-27T21:14:11.778016",
   "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/": "2026-03-28T15:11:14.816875",
-  "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/": "2026-03-29T15:11:32.905804"
+  "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/": "2026-03-29T15:11:32.905804",
+  "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/": "2026-03-29T21:11:11.010079"
 }
