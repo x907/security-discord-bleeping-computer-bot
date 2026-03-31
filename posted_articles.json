@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/": "2026-03-01T16:08:03.764719",
   "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/": "2026-03-01T22:06:50.140452",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/": "2026-03-02T13:29:46.679284",
   "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/": "2026-03-02T15:18:45.273770",
@@ -209,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/": "2026-03-31T09:28:46.010008",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/": "2026-03-31T12:25:10.526053",
   "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/": "2026-03-31T14:35:05.002010",
-  "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/": "2026-03-31T14:35:05.819866"
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/": "2026-03-31T14:35:05.819866",
+  "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/": "2026-03-31T18:24:12.624607"
 }
