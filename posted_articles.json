@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/": "2026-03-03T10:17:02.081692",
-  "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/": "2026-03-03T11:14:29.242548",
   "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/": "2026-03-03T12:16:21.402424",
   "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/": "2026-03-03T15:20:55.999082",
   "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/": "2026-03-03T16:19:27.522646",
@@ -216,5 +214,6 @@
   "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/": "2026-04-01T22:15:03.772462",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/": "2026-04-01T22:15:04.419580",
   "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/": "2026-04-02T08:26:24.010436",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/": "2026-04-02T09:26:10.742684"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/": "2026-04-02T09:26:10.742684",
+  "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": "2026-04-02T11:20:26.064934"
 }
