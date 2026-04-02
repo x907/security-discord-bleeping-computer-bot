@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/": "2026-03-03T21:12:44.057989",
   "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/": "2026-03-03T23:08:51.526707",
   "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/": "2026-03-03T23:08:51.982132",
   "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/": "2026-03-04T00:32:42.379803",
@@ -216,5 +215,6 @@
   "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/": "2026-04-02T13:35:30.114054",
   "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/": "2026-04-02T14:31:06.870537",
   "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/": "2026-04-02T15:26:08.237108",
-  "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/": "2026-04-02T19:23:33.567646"
+  "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/": "2026-04-02T19:23:33.567646",
+  "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/": "2026-04-02T21:14:39.876203"
 }
