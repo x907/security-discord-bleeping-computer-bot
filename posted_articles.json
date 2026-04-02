@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/": "2026-03-03T12:16:21.402424",
   "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/": "2026-03-03T15:20:55.999082",
   "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/": "2026-03-03T16:19:27.522646",
   "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/": "2026-03-03T18:19:36.590865",
@@ -215,5 +214,7 @@
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/": "2026-04-01T22:15:04.419580",
   "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/": "2026-04-02T08:26:24.010436",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/": "2026-04-02T09:26:10.742684",
-  "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": "2026-04-02T11:20:26.064934"
+  "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": "2026-04-02T11:20:26.064934",
+  "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/": "2026-04-02T13:35:29.524864",
+  "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/": "2026-04-02T13:35:30.114054"
 }
