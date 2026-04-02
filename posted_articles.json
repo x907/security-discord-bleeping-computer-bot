@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/": "2026-03-03T15:20:55.999082",
   "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/": "2026-03-03T16:19:27.522646",
   "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/": "2026-03-03T18:19:36.590865",
   "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/": "2026-03-03T21:12:44.057989",
@@ -217,5 +216,6 @@
   "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": "2026-04-02T11:20:26.064934",
   "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/": "2026-04-02T13:35:29.524864",
   "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/": "2026-04-02T13:35:30.114054",
-  "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/": "2026-04-02T14:31:06.870537"
+  "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/": "2026-04-02T14:31:06.870537",
+  "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/": "2026-04-02T15:26:08.237108"
 }
