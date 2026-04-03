@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/": "2026-03-04T18:18:04.540683",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/": "2026-03-04T19:18:31.092379",
-  "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/": "2026-03-04T19:18:31.564686",
-  "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/": "2026-03-04T19:18:32.151909",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/": "2026-03-04T21:12:11.749106",
-  "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/": "2026-03-04T21:12:12.242805",
   "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/": "2026-03-04T22:10:19.365098",
   "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/": "2026-03-04T23:11:10.323667",
   "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/": "2026-03-05T09:18:07.611616",
@@ -218,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/": "2026-04-03T12:19:18.885550",
   "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/": "2026-04-03T14:19:50.332657",
   "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/": "2026-04-03T17:13:28.645308",
-  "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/": "2026-04-03T18:16:50.744573"
+  "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/": "2026-04-03T18:16:50.744573",
+  "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-03T21:13:10.790205"
 }
