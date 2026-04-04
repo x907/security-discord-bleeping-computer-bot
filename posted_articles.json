@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/": "2026-03-04T22:10:19.365098",
-  "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/": "2026-03-04T23:11:10.323667",
-  "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/": "2026-03-05T09:18:07.611616",
-  "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/": "2026-03-05T11:15:44.254985",
-  "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/": "2026-03-05T13:31:00.816562",
   "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/": "2026-03-05T15:21:20.822502",
   "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/": "2026-03-05T15:21:21.331234",
   "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/": "2026-03-05T18:40:28.542727",
@@ -213,5 +208,7 @@
   "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/": "2026-04-03T14:19:50.332657",
   "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/": "2026-04-03T17:13:28.645308",
   "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/": "2026-04-03T18:16:50.744573",
-  "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-03T21:13:10.790205"
+  "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-03T21:13:10.790205",
+  "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/": "2026-04-04T15:11:10.992328",
+  "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-04T15:11:11.641321"
 }
