@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/": "2026-03-05T15:21:20.822502",
-  "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/": "2026-03-05T15:21:21.331234",
-  "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/": "2026-03-05T18:40:28.542727",
-  "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/": "2026-03-05T19:30:04.323497",
   "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/": "2026-03-05T21:13:10.182298",
   "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/": "2026-03-05T23:26:36.065020",
   "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/": "2026-03-06T09:15:54.574337",
@@ -210,5 +206,6 @@
   "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/": "2026-04-03T18:16:50.744573",
   "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-03T21:13:10.790205",
   "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/": "2026-04-04T15:11:10.992328",
-  "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-04T15:11:11.641321"
+  "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-04T15:11:11.641321",
+  "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/": "2026-04-04T21:10:55.085364"
 }
