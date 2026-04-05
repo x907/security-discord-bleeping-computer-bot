@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/": "2026-03-05T21:13:10.182298",
-  "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/": "2026-03-05T23:26:36.065020",
-  "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/": "2026-03-06T09:15:54.574337",
-  "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/": "2026-03-06T10:13:32.583486",
   "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/": "2026-03-06T15:15:33.228475",
   "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/": "2026-03-06T15:15:33.868557",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/": "2026-03-06T15:15:34.648081",
@@ -207,5 +203,6 @@
   "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-03T21:13:10.790205",
   "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/": "2026-04-04T15:11:10.992328",
   "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-04T15:11:11.641321",
-  "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/": "2026-04-04T21:10:55.085364"
+  "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/": "2026-04-04T21:10:55.085364",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/": "2026-04-05T15:12:49.618238"
 }
