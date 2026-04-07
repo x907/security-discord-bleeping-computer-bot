@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/": "2026-03-08T15:07:34.233399",
-  "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/": "2026-03-08T16:07:58.683204",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/": "2026-03-09T14:23:41.633526",
   "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/": "2026-03-09T15:24:06.449838",
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/": "2026-03-09T16:25:27.528163",
@@ -209,5 +207,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/": "2026-04-06T19:26:12.004238",
   "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/": "2026-04-06T22:13:05.413762",
   "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/": "2026-04-07T00:39:21.106628",
-  "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/": "2026-04-07T14:38:19.477404"
+  "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/": "2026-04-07T14:38:19.477404",
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": "2026-04-07T16:26:47.621942"
 }
