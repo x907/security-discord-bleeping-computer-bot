@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/": "2026-03-09T15:24:06.449838",
-  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/": "2026-03-09T16:25:27.528163",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/": "2026-03-09T17:21:12.081695",
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/": "2026-03-09T17:21:12.585990",
   "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/": "2026-03-09T19:19:18.975863",
   "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/": "2026-03-09T22:09:46.436958",
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/": "2026-03-09T23:09:35.297472",
@@ -214,5 +210,6 @@
   "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/": "2026-04-07T21:19:20.901296",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/": "2026-04-07T22:15:47.543267",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/": "2026-04-08T07:36:07.563160",
-  "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/": "2026-04-08T14:38:35.310916"
+  "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/": "2026-04-08T14:38:35.310916",
+  "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/": "2026-04-08T17:28:13.931934"
 }
