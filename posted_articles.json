@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/": "2026-03-09T23:09:35.297472",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/": "2026-03-10T11:14:54.256540",
   "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/": "2026-03-10T12:16:55.388262",
   "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/": "2026-03-10T14:20:56.113026",
@@ -212,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/": "2026-04-08T17:28:13.931934",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/": "2026-04-08T18:31:47.454262",
   "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/": "2026-04-08T19:32:26.718311",
-  "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/": "2026-04-08T22:17:01.284371"
+  "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/": "2026-04-08T22:17:01.284371",
+  "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/": "2026-04-08T23:17:15.870301"
 }
