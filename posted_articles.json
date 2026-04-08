@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/": "2026-03-09T19:19:18.975863",
   "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/": "2026-03-09T22:09:46.436958",
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/": "2026-03-09T23:09:35.297472",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/": "2026-03-10T11:14:54.256540",
@@ -212,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/": "2026-04-08T07:36:07.563160",
   "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/": "2026-04-08T14:38:35.310916",
   "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/": "2026-04-08T17:28:13.931934",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/": "2026-04-08T18:31:47.454262"
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/": "2026-04-08T18:31:47.454262",
+  "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/": "2026-04-08T19:32:26.718311"
 }
