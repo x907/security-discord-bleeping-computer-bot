@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/": "2026-03-11T17:21:52.775328",
-  "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/": "2026-03-11T17:21:53.192942",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/": "2026-03-11T18:22:40.588641",
-  "https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/": "2026-03-11T20:11:50.354796",
-  "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/": "2026-03-11T20:11:50.785823",
   "https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/": "2026-03-12T12:16:02.015497",
   "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/": "2026-03-12T14:22:12.117899",
   "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/": "2026-03-12T14:22:12.713557",
@@ -215,5 +210,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/": "2026-04-10T12:22:10.990770",
   "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/": "2026-04-10T13:35:23.502424",
   "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/": "2026-04-10T14:27:14.847968",
-  "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/": "2026-04-10T16:22:26.304681"
+  "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/": "2026-04-10T16:22:26.304681",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/": "2026-04-11T03:07:27.447713"
 }
