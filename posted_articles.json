@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/": "2026-03-16T19:26:01.462090",
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/": "2026-03-17T11:19:53.310816",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/": "2026-03-17T11:19:53.830121",
   "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/": "2026-03-17T12:21:59.156070",
@@ -209,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/": "2026-04-15T14:38:03.008304",
   "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/": "2026-04-15T15:31:43.531442",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/": "2026-04-15T16:27:03.779776",
-  "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/": "2026-04-15T18:30:03.891497"
+  "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/": "2026-04-15T18:30:03.891497",
+  "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/": "2026-04-15T21:21:30.220087"
 }
