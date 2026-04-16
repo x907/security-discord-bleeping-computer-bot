@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/": "2026-03-17T19:26:38.102591",
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/": "2026-03-17T22:12:48.050976",
   "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/": "2026-03-18T01:37:58.096429",
   "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/": "2026-03-18T14:33:47.866432",
@@ -212,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/": "2026-04-16T14:40:08.338297",
   "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/": "2026-04-16T14:40:08.782995",
   "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/": "2026-04-16T15:36:51.593927",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/": "2026-04-16T17:33:34.396616"
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/": "2026-04-16T17:33:34.396616",
+  "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/": "2026-04-16T21:19:24.910491"
 }
