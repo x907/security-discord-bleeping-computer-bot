@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/": "2026-03-18T16:27:43.585207",
-  "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/": "2026-03-18T17:26:19.364906",
-  "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/": "2026-03-18T18:25:08.275432",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/": "2026-03-18T20:14:47.124825",
   "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/": "2026-03-18T23:11:25.163608",
   "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/": "2026-03-19T10:17:46.530085",
@@ -217,5 +214,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/": "2026-04-17T10:29:46.450469",
   "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/": "2026-04-17T13:35:33.519446",
   "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/": "2026-04-17T14:31:06.068448",
-  "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/": "2026-04-17T15:26:54.600678"
+  "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/": "2026-04-17T15:26:54.600678",
+  "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/": "2026-04-17T19:27:26.632571"
 }
