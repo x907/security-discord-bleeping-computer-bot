@@ -1,14 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/": "2026-03-19T15:20:07.161569",
-  "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/": "2026-03-19T16:23:19.030634",
-  "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/": "2026-03-19T17:24:30.823290",
-  "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/": "2026-03-19T20:14:23.348541",
-  "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/": "2026-03-19T21:14:08.855726",
-  "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/": "2026-03-20T07:23:08.687508",
-  "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/": "2026-03-20T08:16:20.269744",
-  "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/": "2026-03-20T08:16:20.826106",
-  "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/": "2026-03-20T10:15:26.862357",
-  "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/": "2026-03-20T14:20:25.529360",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/": "2026-03-20T15:19:07.665247",
   "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/": "2026-03-20T18:17:05.681205",
   "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/": "2026-03-20T19:17:53.309082",
@@ -211,5 +201,6 @@
   "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/": "2026-04-17T19:27:26.632571",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/": "2026-04-18T14:18:04.043185",
   "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/": "2026-04-18T14:18:04.671532",
-  "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": "2026-04-18T15:16:52.031213"
+  "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": "2026-04-18T15:16:52.031213",
+  "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/": "2026-04-19T15:17:15.272729"
 }
