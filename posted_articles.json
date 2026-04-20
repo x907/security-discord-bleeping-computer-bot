@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": "2026-03-21T15:08:37.748307",
-  "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": "2026-03-21T15:08:38.238175",
   "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/": "2026-03-21T18:10:47.245740",
   "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/": "2026-03-22T15:09:03.881233",
   "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/": "2026-03-23T08:24:15.937792",
@@ -205,5 +203,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/": "2026-04-20T10:38:01.035434",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/": "2026-04-20T12:32:03.627549",
   "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/": "2026-04-20T13:37:45.447012",
-  "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/": "2026-04-20T14:38:27.867869"
+  "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/": "2026-04-20T14:38:27.867869",
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/": "2026-04-20T15:33:54.695029"
 }
