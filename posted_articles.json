@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/": "2026-03-20T19:17:53.309082",
-  "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/": "2026-03-20T21:10:39.087558",
   "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": "2026-03-21T15:08:37.748307",
   "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": "2026-03-21T15:08:38.238175",
   "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/": "2026-03-21T18:10:47.245740",
@@ -202,5 +200,6 @@
   "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": "2026-04-18T15:16:52.031213",
   "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/": "2026-04-19T15:17:15.272729",
   "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/": "2026-04-19T16:14:40.089965",
-  "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/": "2026-04-19T18:17:29.102444"
+  "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/": "2026-04-19T18:17:29.102444",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/": "2026-04-20T08:51:14.318158"
 }
