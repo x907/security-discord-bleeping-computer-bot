@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/": "2026-03-23T18:21:33.772536",
-  "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/": "2026-03-23T19:22:06.024416",
   "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/": "2026-03-23T20:16:09.847321",
   "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/": "2026-03-23T22:10:53.264286",
   "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/": "2026-03-23T23:12:09.905637",
@@ -216,5 +214,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/": "2026-04-22T12:28:16.989899",
   "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/": "2026-04-22T13:36:57.339450",
   "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/": "2026-04-22T14:37:46.589172",
-  "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/": "2026-04-22T15:32:06.989517"
+  "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/": "2026-04-22T15:32:06.989517",
+  "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/": "2026-04-22T19:32:39.210363"
 }
