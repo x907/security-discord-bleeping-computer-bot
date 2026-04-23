@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/": "2026-03-24T14:30:52.591747",
-  "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/": "2026-03-24T14:30:53.001119",
-  "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/": "2026-03-24T14:30:53.377094",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/": "2026-03-24T15:28:55.515561",
   "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/": "2026-03-24T17:24:06.935578",
   "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/": "2026-03-24T21:16:01.302682",
@@ -215,5 +212,7 @@
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/": "2026-04-23T11:28:24.693133",
   "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/": "2026-04-23T12:27:46.131944",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/": "2026-04-23T13:37:15.505889",
-  "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/": "2026-04-23T13:37:16.056912"
+  "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/": "2026-04-23T13:37:16.056912",
+  "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/": "2026-04-23T14:50:43.960282",
+  "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/": "2026-04-23T14:50:44.569419"
 }
