@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/": "2026-03-23T22:10:53.264286",
-  "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/": "2026-03-23T23:12:09.905637",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/": "2026-03-24T00:31:04.485826",
   "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/": "2026-03-24T12:22:25.896978",
   "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/": "2026-03-24T13:35:12.455538",
   "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/": "2026-03-24T14:30:52.591747",
@@ -216,5 +213,6 @@
   "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/": "2026-04-22T15:32:06.989517",
   "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/": "2026-04-22T19:32:39.210363",
   "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/": "2026-04-22T20:23:18.601355",
-  "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/": "2026-04-22T21:21:07.223691"
+  "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/": "2026-04-22T21:21:07.223691",
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/": "2026-04-23T11:28:24.693133"
 }
