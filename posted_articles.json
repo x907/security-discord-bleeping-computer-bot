@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/": "2026-03-24T21:16:01.302682",
   "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/": "2026-03-24T23:11:39.980574",
   "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/": "2026-03-24T23:11:40.424895",
   "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/": "2026-03-25T09:21:53.514419",
@@ -215,5 +214,6 @@
   "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/": "2026-04-23T14:50:44.569419",
   "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/": "2026-04-23T16:37:47.485999",
   "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/": "2026-04-23T19:33:04.404575",
-  "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/": "2026-04-23T19:33:04.982502"
+  "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/": "2026-04-23T19:33:04.982502",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/": "2026-04-23T22:18:41.657813"
 }
