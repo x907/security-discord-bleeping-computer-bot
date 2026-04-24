@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/": "2026-03-25T20:15:33.378619",
   "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/": "2026-03-25T22:14:30.970211",
   "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/": "2026-03-26T00:37:41.182016",
   "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/": "2026-03-26T12:25:18.840946",
@@ -213,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/": "2026-04-24T15:30:34.023749",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/": "2026-04-24T18:19:09.291435",
   "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/": "2026-04-24T18:19:10.060043",
-  "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/": "2026-04-24T19:22:00.547607"
+  "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/": "2026-04-24T19:22:00.547607",
+  "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/": "2026-04-24T20:19:02.568842"
 }
