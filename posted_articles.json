@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/": "2026-03-26T19:28:02.705482",
-  "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/": "2026-03-26T21:12:15.155105",
-  "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/": "2026-03-27T08:20:31.471912",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/": "2026-03-27T09:21:51.843955",
-  "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/": "2026-03-27T11:19:40.399918",
-  "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/": "2026-03-27T13:33:12.788458",
-  "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/": "2026-03-27T14:24:42.721960",
   "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/": "2026-03-27T16:22:08.298192",
   "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/": "2026-03-27T17:21:17.326631",
   "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/": "2026-03-27T21:14:11.778016",
@@ -208,5 +201,6 @@
   "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/": "2026-04-24T21:20:22.143926",
   "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/": "2026-04-24T23:17:22.969746",
   "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/": "2026-04-25T15:18:15.072460",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/": "2026-04-25T17:16:51.724128"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/": "2026-04-25T17:16:51.724128",
+  "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/": "2026-04-26T15:18:28.409541"
 }
