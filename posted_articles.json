@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/": "2026-03-28T15:11:14.816875",
   "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/": "2026-03-29T15:11:32.905804",
   "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/": "2026-03-29T21:11:11.010079",
   "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/": "2026-03-30T06:43:51.680726",
@@ -205,5 +204,6 @@
   "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/": "2026-04-27T13:37:59.202923",
   "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/": "2026-04-27T14:44:56.693768",
   "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/": "2026-04-27T14:44:57.190350",
-  "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/": "2026-04-27T14:44:57.713742"
+  "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/": "2026-04-27T14:44:57.713742",
+  "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/": "2026-04-27T15:38:10.437063"
 }
