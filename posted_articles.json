@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/": "2026-03-29T15:11:32.905804",
   "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/": "2026-03-29T21:11:11.010079",
   "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/": "2026-03-30T06:43:51.680726",
   "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/": "2026-03-30T08:37:29.158586",
@@ -214,5 +213,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/": "2026-04-28T08:55:01.293138",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/": "2026-04-28T10:44:04.056025",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/": "2026-04-28T13:40:01.006543",
-  "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/": "2026-04-28T13:40:01.465574"
+  "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/": "2026-04-28T13:40:01.465574",
+  "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/": "2026-04-28T15:51:57.742024",
+  "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/": "2026-04-28T15:51:58.239152"
 }
