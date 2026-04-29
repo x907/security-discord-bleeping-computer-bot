@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/": "2026-03-30T06:43:51.680726",
-  "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/": "2026-03-30T08:37:29.158586",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/": "2026-03-30T10:33:16.550531",
   "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/": "2026-03-30T11:25:31.935528",
   "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/": "2026-03-30T14:36:06.985051",
@@ -217,5 +215,6 @@
   "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/": "2026-04-28T15:51:58.239152",
   "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/": "2026-04-28T19:34:54.757600",
   "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/": "2026-04-28T21:27:06.079293",
-  "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/": "2026-04-28T21:27:06.804567"
+  "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/": "2026-04-28T21:27:06.804567",
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/": "2026-04-29T08:51:42.439384"
 }
