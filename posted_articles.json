@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/": "2026-03-30T11:25:31.935528",
   "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/": "2026-03-30T14:36:06.985051",
   "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/": "2026-03-30T14:36:07.790630",
   "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/": "2026-03-30T19:25:57.005304",
@@ -216,5 +215,7 @@
   "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/": "2026-04-28T21:27:06.079293",
   "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/": "2026-04-28T21:27:06.804567",
   "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/": "2026-04-29T08:51:42.439384",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/": "2026-04-29T10:39:56.364098"
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/": "2026-04-29T10:39:56.364098",
+  "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/": "2026-04-29T13:37:58.634639",
+  "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/": "2026-04-29T13:37:59.182157"
 }
