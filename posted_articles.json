@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/": "2026-03-30T19:25:57.005304",
-  "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/": "2026-03-30T21:17:59.963236",
   "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/": "2026-03-30T22:14:12.474771",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/": "2026-03-31T07:34:53.877625",
   "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/": "2026-03-31T08:28:43.225421",
@@ -218,5 +216,6 @@
   "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/": "2026-04-29T13:37:59.182157",
   "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/": "2026-04-29T14:49:32.227909",
   "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/": "2026-04-29T16:36:55.744092",
-  "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/": "2026-04-29T18:36:19.221051"
+  "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/": "2026-04-29T18:36:19.221051",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/": "2026-04-29T21:27:37.708253"
 }
