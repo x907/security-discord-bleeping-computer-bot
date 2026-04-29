@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/": "2026-03-30T22:14:12.474771",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/": "2026-03-31T07:34:53.877625",
   "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/": "2026-03-31T08:28:43.225421",
   "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/": "2026-03-31T09:28:46.010008",
@@ -217,5 +216,6 @@
   "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/": "2026-04-29T14:49:32.227909",
   "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/": "2026-04-29T16:36:55.744092",
   "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/": "2026-04-29T18:36:19.221051",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/": "2026-04-29T21:27:37.708253"
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/": "2026-04-29T21:27:37.708253",
+  "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/": "2026-04-29T22:23:18.368920"
 }
