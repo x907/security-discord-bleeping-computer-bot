@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/": "2026-03-31T14:35:05.002010",
-  "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/": "2026-03-31T14:35:05.819866",
   "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/": "2026-03-31T18:24:12.624607",
   "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/": "2026-03-31T22:14:35.339518",
   "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/": "2026-03-31T23:12:18.912640",
@@ -216,5 +214,7 @@
   "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/": "2026-04-29T22:23:18.368920",
   "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/": "2026-04-29T23:23:03.854995",
   "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/": "2026-04-30T11:34:00.891366",
-  "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/": "2026-04-30T12:39:15.518608"
+  "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/": "2026-04-30T12:39:15.518608",
+  "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/": "2026-04-30T14:46:46.863632",
+  "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/": "2026-04-30T14:46:47.593194"
 }
