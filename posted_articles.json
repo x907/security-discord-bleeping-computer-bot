@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/": "2026-03-31T22:14:35.339518",
-  "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/": "2026-03-31T23:12:18.912640",
-  "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/": "2026-03-31T23:12:19.267988",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/": "2026-04-01T00:42:08.436782",
-  "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/": "2026-04-01T00:42:09.147160",
-  "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/": "2026-04-01T06:40:50.676235",
-  "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/": "2026-04-01T06:40:51.028097",
   "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/": "2026-04-01T10:25:40.134538",
   "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/": "2026-04-01T12:25:31.416625",
   "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/": "2026-04-01T14:36:24.955591",
@@ -219,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/": "2026-04-30T15:38:42.772190",
   "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/": "2026-04-30T16:35:40.889066",
   "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/": "2026-04-30T18:35:35.346451",
-  "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/": "2026-04-30T19:34:57.748924"
+  "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/": "2026-04-30T19:34:57.748924",
+  "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/": "2026-05-01T08:44:59.802003"
 }
