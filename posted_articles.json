@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/": "2026-04-02T08:26:24.010436",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/": "2026-04-02T09:26:10.742684",
-  "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": "2026-04-02T11:20:26.064934",
-  "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/": "2026-04-02T13:35:29.524864",
-  "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/": "2026-04-02T13:35:30.114054",
-  "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/": "2026-04-02T14:31:06.870537",
   "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/": "2026-04-02T15:26:08.237108",
   "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/": "2026-04-02T19:23:33.567646",
   "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/": "2026-04-02T21:14:39.876203",
@@ -214,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/story-retracted/": "2026-05-01T17:25:29.393073",
   "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/": "2026-05-01T18:28:39.824364",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/": "2026-05-02T00:47:22.234807",
-  "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/": "2026-05-02T00:47:22.707513"
+  "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/": "2026-05-02T00:47:22.707513",
+  "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/": "2026-05-02T15:19:01.693537"
 }
