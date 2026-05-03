@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/": "2026-04-03T05:36:12.584554",
-  "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/": "2026-04-03T07:31:43.734696",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/": "2026-04-03T08:22:23.525417",
-  "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/": "2026-04-03T09:23:17.644711",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/": "2026-04-03T12:19:18.885550",
-  "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/": "2026-04-03T14:19:50.332657",
   "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/": "2026-04-03T17:13:28.645308",
   "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/": "2026-04-03T18:16:50.744573",
   "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": "2026-04-03T21:13:10.790205",
@@ -207,5 +201,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/": "2026-05-02T00:47:22.234807",
   "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/": "2026-05-02T00:47:22.707513",
   "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/": "2026-05-02T15:19:01.693537",
-  "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/": "2026-05-02T22:16:04.817761"
+  "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/": "2026-05-02T22:16:04.817761",
+  "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/": "2026-05-03T14:22:34.864927"
 }
