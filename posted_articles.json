@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/": "2026-04-04T21:10:55.085364",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/": "2026-04-05T15:12:49.618238",
   "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/": "2026-04-05T19:16:21.122968",
   "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/": "2026-04-05T20:10:14.952053",
@@ -207,5 +206,6 @@
   "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/": "2026-05-04T14:49:05.115543",
   "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/": "2026-05-04T16:38:21.371964",
   "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/": "2026-05-04T17:35:43.805848",
-  "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/": "2026-05-04T20:33:20.178209"
+  "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/": "2026-05-04T20:33:20.178209",
+  "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/": "2026-05-04T22:24:27.802288"
 }
