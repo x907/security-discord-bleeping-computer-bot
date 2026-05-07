@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/": "2026-04-06T19:26:11.472717",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/": "2026-04-06T19:26:12.004238",
-  "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/": "2026-04-06T22:13:05.413762",
-  "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/": "2026-04-07T00:39:21.106628",
   "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/": "2026-04-07T14:38:19.477404",
   "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": "2026-04-07T16:26:47.621942",
   "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/": "2026-04-07T17:24:45.180306",
@@ -219,5 +215,6 @@
   "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/": "2026-05-06T14:58:05.441859",
   "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/": "2026-05-06T17:35:43.988208",
   "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/": "2026-05-06T18:40:02.463591",
-  "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/": "2026-05-06T18:40:03.324627"
+  "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/": "2026-05-06T18:40:03.324627",
+  "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/": "2026-05-07T10:50:34.626954"
 }
