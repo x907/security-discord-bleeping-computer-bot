@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/": "2026-04-07T20:16:20.535685",
-  "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/": "2026-04-07T21:19:20.901296",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/": "2026-04-07T22:15:47.543267",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/": "2026-04-08T07:36:07.563160",
   "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/": "2026-04-08T14:38:35.310916",
   "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/": "2026-04-08T17:28:13.931934",
@@ -219,5 +216,6 @@
   "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/": "2026-05-07T15:00:08.732948",
   "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/": "2026-05-07T15:52:31.411430",
   "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/": "2026-05-07T18:39:37.265737",
-  "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/": "2026-05-07T18:39:37.920033"
+  "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/": "2026-05-07T18:39:37.920033",
+  "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/": "2026-05-07T22:26:15.398201"
 }
