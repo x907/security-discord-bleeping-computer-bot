@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/": "2026-04-09T16:34:59.984890",
-  "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/": "2026-04-09T19:30:13.552763",
   "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/": "2026-04-09T20:21:05.819208",
   "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/": "2026-04-09T22:17:52.214284",
   "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/": "2026-04-09T22:17:52.736354",
@@ -213,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/": "2026-05-08T13:38:01.957383",
   "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": "2026-05-08T14:40:04.542010",
   "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/": "2026-05-08T16:35:23.167280",
-  "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/": "2026-05-09T15:23:00.635183"
+  "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/": "2026-05-09T15:23:00.635183",
+  "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/": "2026-05-09T20:18:14.989269"
 }
