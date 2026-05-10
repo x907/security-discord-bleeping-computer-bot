@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/": "2026-04-09T20:21:05.819208",
-  "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/": "2026-04-09T22:17:52.214284",
-  "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/": "2026-04-09T22:17:52.736354",
-  "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/": "2026-04-10T11:20:59.515316",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/": "2026-04-10T12:22:10.990770",
-  "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/": "2026-04-10T13:35:23.502424",
-  "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/": "2026-04-10T14:27:14.847968",
   "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/": "2026-04-10T16:22:26.304681",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/": "2026-04-11T03:07:27.447713",
   "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/": "2026-04-11T15:13:21.180855",
@@ -212,5 +205,6 @@
   "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": "2026-05-08T14:40:04.542010",
   "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/": "2026-05-08T16:35:23.167280",
   "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/": "2026-05-09T15:23:00.635183",
-  "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/": "2026-05-09T20:18:14.989269"
+  "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/": "2026-05-09T20:18:14.989269",
+  "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/": "2026-05-10T14:28:32.686637"
 }
