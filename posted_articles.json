@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/": "2026-04-13T16:31:47.367374",
   "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/": "2026-04-13T18:32:13.899713",
   "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/": "2026-04-13T18:32:14.336864",
   "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/": "2026-04-13T19:32:04.246065",
@@ -226,5 +225,8 @@
   "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/": "2026-05-13T12:50:48.701878",
   "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/": "2026-05-13T12:50:49.279233",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/": "2026-05-13T12:50:50.130295",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/": "2026-05-13T15:05:46.162264"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/": "2026-05-13T15:05:46.162264",
+  "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/": "2026-05-13T16:51:16.621463",
+  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/": "2026-05-13T16:51:17.271344",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/": "2026-05-13T16:51:17.790410"
 }
