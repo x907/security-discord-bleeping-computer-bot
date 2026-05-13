@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/": "2026-04-13T18:32:13.899713",
-  "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/": "2026-04-13T18:32:14.336864",
-  "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/": "2026-04-13T19:32:04.246065",
-  "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/": "2026-04-13T20:23:40.345314",
-  "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/": "2026-04-13T20:23:41.025262",
   "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/": "2026-04-13T22:19:37.875685",
   "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/": "2026-04-14T14:38:53.833310",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/": "2026-04-14T16:29:40.351710",
@@ -228,5 +223,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/": "2026-05-13T15:05:46.162264",
   "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/": "2026-05-13T16:51:16.621463",
   "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/": "2026-05-13T16:51:17.271344",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/": "2026-05-13T16:51:17.790410"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/": "2026-05-13T16:51:17.790410",
+  "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/": "2026-05-13T20:38:01.345335"
 }
