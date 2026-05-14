@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/": "2026-04-14T21:20:22.240288",
   "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/": "2026-04-14T22:19:17.881611",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/": "2026-04-14T23:19:51.694652",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/": "2026-04-15T10:34:21.890570",
@@ -227,5 +226,6 @@
   "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/": "2026-05-14T15:52:33.086605",
   "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/": "2026-05-14T19:35:41.596901",
   "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/": "2026-05-14T19:35:42.208326",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/": "2026-05-14T20:34:46.763777"
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/": "2026-05-14T20:34:46.763777",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/": "2026-05-14T21:29:40.035792"
 }
