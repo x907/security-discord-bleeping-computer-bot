@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/": "2026-04-15T14:38:03.008304",
   "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/": "2026-04-15T15:31:43.531442",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/": "2026-04-15T16:27:03.779776",
   "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/": "2026-04-15T18:30:03.891497",
@@ -226,5 +225,7 @@
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/": "2026-05-14T21:29:40.035792",
   "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/": "2026-05-14T23:22:40.624950",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/": "2026-05-15T10:51:07.951684",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/": "2026-05-15T12:43:42.028777"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/": "2026-05-15T12:43:42.028777",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/": "2026-05-15T14:52:59.809922",
+  "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/": "2026-05-15T14:53:00.415791"
 }
