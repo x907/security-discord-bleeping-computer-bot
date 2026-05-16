@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/": "2026-04-16T14:40:08.338297",
-  "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/": "2026-04-16T14:40:08.782995",
-  "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/": "2026-04-16T15:36:51.593927",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/": "2026-04-16T17:33:34.396616",
-  "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/": "2026-04-16T21:19:24.910491",
   "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/": "2026-04-16T22:17:31.402183",
   "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/": "2026-04-16T23:18:14.174184",
   "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/": "2026-04-17T06:43:48.864240",
@@ -222,5 +217,6 @@
   "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/": "2026-05-15T17:34:53.886804",
   "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/": "2026-05-15T18:38:16.790294",
   "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/": "2026-05-15T19:34:34.807428",
-  "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/": "2026-05-16T14:31:12.944204"
+  "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/": "2026-05-16T14:31:12.944204",
+  "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": "2026-05-16T21:19:50.410351"
 }
