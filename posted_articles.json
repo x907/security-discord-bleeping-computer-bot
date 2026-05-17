@@ -1,12 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/": "2026-04-16T22:17:31.402183",
-  "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/": "2026-04-16T23:18:14.174184",
-  "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/": "2026-04-17T06:43:48.864240",
-  "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/": "2026-04-17T07:37:49.232130",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/": "2026-04-17T08:39:35.528754",
-  "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/": "2026-04-17T10:29:46.450469",
-  "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/": "2026-04-17T13:35:33.519446",
-  "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/": "2026-04-17T14:31:06.068448",
   "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/": "2026-04-17T15:26:54.600678",
   "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/": "2026-04-17T19:27:26.632571",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/": "2026-04-18T14:18:04.043185",
@@ -218,5 +210,6 @@
   "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/": "2026-05-15T18:38:16.790294",
   "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/": "2026-05-15T19:34:34.807428",
   "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/": "2026-05-16T14:31:12.944204",
-  "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": "2026-05-16T21:19:50.410351"
+  "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": "2026-05-16T21:19:50.410351",
+  "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/": "2026-05-17T15:26:03.900973"
 }
