@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/": "2026-04-18T14:18:04.043185",
-  "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/": "2026-04-18T14:18:04.671532",
   "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": "2026-04-18T15:16:52.031213",
   "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/": "2026-04-19T15:17:15.272729",
   "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/": "2026-04-19T16:14:40.089965",
@@ -214,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/": "2026-05-18T07:32:02.700510",
   "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/": "2026-05-18T07:32:03.302129",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/": "2026-05-18T09:18:29.799543",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/": "2026-05-18T11:24:26.982384"
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/": "2026-05-18T11:24:26.982384",
+  "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/": "2026-05-18T15:09:08.911642"
 }
