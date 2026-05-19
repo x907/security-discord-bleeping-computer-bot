@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/": "2026-04-19T18:17:29.102444",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/": "2026-04-20T08:51:14.318158",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/": "2026-04-20T10:38:01.035434",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/": "2026-04-20T12:32:03.627549",
@@ -221,5 +220,6 @@
   "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/": "2026-05-19T15:09:52.871995",
   "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/": "2026-05-19T15:09:53.312443",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/": "2026-05-19T17:02:33.002066",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/": "2026-05-19T17:02:33.455507"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/": "2026-05-19T17:02:33.455507",
+  "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/": "2026-05-19T19:36:33.458700"
 }
