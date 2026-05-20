@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/": "2026-04-20T18:25:55.831014",
-  "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/": "2026-04-20T20:18:16.431904",
   "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/": "2026-04-20T22:19:10.437635",
   "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/": "2026-04-21T09:36:36.936975",
   "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/": "2026-04-21T10:33:54.455320",
@@ -226,5 +224,7 @@
   "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/": "2026-05-20T11:05:49.985231",
   "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/": "2026-05-20T12:59:34.165739",
   "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/": "2026-05-20T15:14:45.677094",
-  "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/": "2026-05-20T17:09:07.158821"
+  "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/": "2026-05-20T17:09:07.158821",
+  "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/": "2026-05-20T21:37:20.589451",
+  "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/": "2026-05-20T21:37:20.970467"
 }
