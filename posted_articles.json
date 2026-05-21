@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/": "2026-04-21T13:37:36.704614",
-  "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/": "2026-04-21T14:39:09.961781",
-  "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/": "2026-04-21T14:39:10.624010",
   "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/": "2026-04-21T19:31:08.606858",
   "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/": "2026-04-21T22:18:19.508526",
   "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/": "2026-04-22T07:37:49.340411",
@@ -226,5 +223,9 @@
   "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/": "2026-05-21T07:24:40.344658",
   "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/": "2026-05-21T09:14:18.212411",
   "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/": "2026-05-21T11:08:40.912859",
-  "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/": "2026-05-21T13:15:13.952528"
+  "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/": "2026-05-21T13:15:13.952528",
+  "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": "2026-05-21T15:11:26.364039",
+  "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/": "2026-05-21T15:11:27.324291",
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/": "2026-05-21T15:11:27.811200",
+  "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/": "2026-05-21T15:11:28.872043"
 }
