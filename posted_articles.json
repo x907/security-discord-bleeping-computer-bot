@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/": "2026-04-22T13:36:57.339450",
   "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/": "2026-04-22T14:37:46.589172",
   "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/": "2026-04-22T15:32:06.989517",
   "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/": "2026-04-22T19:32:39.210363",
@@ -223,5 +222,8 @@
   "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/": "2026-05-21T15:11:28.872043",
   "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/": "2026-05-21T18:43:23.552907",
   "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/": "2026-05-22T09:12:09.623412",
-  "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/": "2026-05-22T12:56:55.697207"
+  "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/": "2026-05-22T12:56:55.697207",
+  "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/": "2026-05-22T13:51:39.524394",
+  "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/": "2026-05-22T13:51:39.960919",
+  "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/": "2026-05-22T13:51:40.666199"
 }
