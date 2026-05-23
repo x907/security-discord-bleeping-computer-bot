@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/": "2026-04-23T14:50:43.960282",
-  "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/": "2026-04-23T14:50:44.569419",
-  "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/": "2026-04-23T16:37:47.485999",
-  "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/": "2026-04-23T19:33:04.404575",
-  "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/": "2026-04-23T19:33:04.982502",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/": "2026-04-23T22:18:41.657813",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/": "2026-04-24T12:28:08.672802",
   "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/": "2026-04-24T13:36:02.730510",
@@ -219,5 +214,6 @@
   "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/": "2026-05-22T13:51:40.666199",
   "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/": "2026-05-22T16:49:00.930475",
   "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/": "2026-05-22T17:37:37.390675",
-  "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/": "2026-05-23T14:35:21.171498"
+  "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/": "2026-05-23T14:35:21.171498",
+  "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": "2026-05-23T21:21:04.738142"
 }
