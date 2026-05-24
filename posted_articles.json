@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/": "2026-04-23T22:18:41.657813",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/": "2026-04-24T12:28:08.672802",
-  "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/": "2026-04-24T13:36:02.730510",
   "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/": "2026-04-24T15:30:34.023749",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/": "2026-04-24T18:19:09.291435",
   "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/": "2026-04-24T18:19:10.060043",
@@ -215,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/": "2026-05-22T16:49:00.930475",
   "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/": "2026-05-22T17:37:37.390675",
   "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/": "2026-05-23T14:35:21.171498",
-  "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": "2026-05-23T21:21:04.738142"
+  "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": "2026-05-23T21:21:04.738142",
+  "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/": "2026-05-24T14:34:47.610028"
 }
