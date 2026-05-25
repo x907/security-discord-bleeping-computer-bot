@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/": "2026-04-25T15:18:15.072460",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/": "2026-04-25T17:16:51.724128",
   "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/": "2026-04-26T15:18:28.409541",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/": "2026-04-27T12:39:26.903911",
   "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/": "2026-04-27T13:37:58.772250",
@@ -207,5 +205,6 @@
   "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/": "2026-05-23T14:35:21.171498",
   "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": "2026-05-23T21:21:04.738142",
   "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/": "2026-05-24T14:34:47.610028",
-  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/": "2026-05-25T13:16:06.666603"
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/": "2026-05-25T13:16:06.666603",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/": "2026-05-25T17:35:33.110138"
 }
