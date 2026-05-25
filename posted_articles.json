@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/": "2026-04-24T15:30:34.023749",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/": "2026-04-24T18:19:09.291435",
-  "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/": "2026-04-24T18:19:10.060043",
-  "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/": "2026-04-24T19:22:00.547607",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/": "2026-04-24T20:19:02.568842",
-  "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/": "2026-04-24T21:20:22.143926",
-  "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/": "2026-04-24T23:17:22.969746",
   "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/": "2026-04-25T15:18:15.072460",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/": "2026-04-25T17:16:51.724128",
   "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/": "2026-04-26T15:18:28.409541",
@@ -213,5 +206,6 @@
   "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/": "2026-05-22T17:37:37.390675",
   "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/": "2026-05-23T14:35:21.171498",
   "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": "2026-05-23T21:21:04.738142",
-  "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/": "2026-05-24T14:34:47.610028"
+  "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/": "2026-05-24T14:34:47.610028",
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/": "2026-05-25T13:16:06.666603"
 }
