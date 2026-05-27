@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/": "2026-04-27T13:37:58.772250",
-  "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/": "2026-04-27T13:37:59.202923",
-  "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/": "2026-04-27T14:44:56.693768",
-  "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/": "2026-04-27T14:44:57.190350",
-  "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/": "2026-04-27T14:44:57.713742",
   "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/": "2026-04-27T15:38:10.437063",
   "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/": "2026-04-27T16:36:51.074645",
   "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/": "2026-04-27T20:28:33.494236",
@@ -216,5 +211,7 @@
   "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/": "2026-05-27T09:14:59.984499",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/": "2026-05-27T09:15:00.530920",
   "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/": "2026-05-27T11:17:21.876432",
-  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/": "2026-05-27T13:18:48.327318"
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/": "2026-05-27T13:18:48.327318",
+  "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/": "2026-05-27T15:09:46.203849",
+  "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/": "2026-05-27T15:09:46.580921"
 }
