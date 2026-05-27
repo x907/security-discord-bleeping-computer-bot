@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/": "2026-04-27T15:38:10.437063",
-  "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/": "2026-04-27T16:36:51.074645",
-  "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/": "2026-04-27T20:28:33.494236",
-  "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/": "2026-04-27T20:28:34.178145",
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/": "2026-04-27T22:20:38.466227",
   "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/": "2026-04-27T23:22:53.202479",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/": "2026-04-28T08:55:01.293138",
@@ -213,5 +209,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/": "2026-05-27T11:17:21.876432",
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/": "2026-05-27T13:18:48.327318",
   "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/": "2026-05-27T15:09:46.203849",
-  "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/": "2026-05-27T15:09:46.580921"
+  "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/": "2026-05-27T15:09:46.580921",
+  "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/": "2026-05-27T21:37:23.100408"
 }
