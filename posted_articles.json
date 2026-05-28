@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/": "2026-04-27T22:20:38.466227",
-  "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/": "2026-04-27T23:22:53.202479",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/": "2026-04-28T08:55:01.293138",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/": "2026-04-28T10:44:04.056025",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/": "2026-04-28T13:40:01.006543",
   "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/": "2026-04-28T13:40:01.465574",
   "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/": "2026-04-28T15:51:57.742024",
@@ -210,5 +206,7 @@
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/": "2026-05-27T13:18:48.327318",
   "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/": "2026-05-27T15:09:46.203849",
   "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/": "2026-05-27T15:09:46.580921",
-  "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/": "2026-05-27T21:37:23.100408"
+  "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/": "2026-05-27T21:37:23.100408",
+  "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/": "2026-05-28T11:17:09.900716",
+  "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/": "2026-05-28T11:17:10.419868"
 }
