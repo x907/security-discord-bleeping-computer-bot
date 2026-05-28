@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/": "2026-04-28T15:51:57.742024",
-  "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/": "2026-04-28T15:51:58.239152",
   "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/": "2026-04-28T19:34:54.757600",
   "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/": "2026-04-28T21:27:06.079293",
   "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/": "2026-04-28T21:27:06.804567",
@@ -210,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/": "2026-05-28T13:22:43.074895",
   "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/": "2026-05-28T13:22:43.636142",
   "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/": "2026-05-28T15:13:54.028688",
-  "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/": "2026-05-28T15:13:54.405011"
+  "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/": "2026-05-28T15:13:54.405011",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/": "2026-05-28T18:57:48.693619"
 }
