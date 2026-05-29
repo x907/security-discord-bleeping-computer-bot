@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/": "2026-04-29T13:37:58.634639",
-  "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/": "2026-04-29T13:37:59.182157",
-  "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/": "2026-04-29T14:49:32.227909",
   "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/": "2026-04-29T16:36:55.744092",
   "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/": "2026-04-29T18:36:19.221051",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/": "2026-04-29T21:27:37.708253",
@@ -212,5 +209,7 @@
   "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/": "2026-05-29T09:16:32.130203",
   "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/": "2026-05-29T11:10:41.115100",
   "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/": "2026-05-29T13:14:02.458608",
-  "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/": "2026-05-29T13:14:02.810540"
+  "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/": "2026-05-29T13:14:02.810540",
+  "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/": "2026-05-29T15:11:19.331706",
+  "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/": "2026-05-29T15:11:19.993888"
 }
