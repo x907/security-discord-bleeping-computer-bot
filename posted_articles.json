@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/": "2026-04-29T16:36:55.744092",
-  "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/": "2026-04-29T18:36:19.221051",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/": "2026-04-29T21:27:37.708253",
   "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/": "2026-04-29T22:23:18.368920",
   "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/": "2026-04-29T23:23:03.854995",
@@ -211,5 +209,7 @@
   "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/": "2026-05-29T13:14:02.458608",
   "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/": "2026-05-29T13:14:02.810540",
   "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/": "2026-05-29T15:11:19.331706",
-  "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/": "2026-05-29T15:11:19.993888"
+  "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/": "2026-05-29T15:11:19.993888",
+  "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/": "2026-05-29T18:57:28.937308",
+  "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/": "2026-05-29T18:57:29.466682"
 }
