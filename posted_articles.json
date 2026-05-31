@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/": "2026-04-30T18:35:35.346451",
-  "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/": "2026-04-30T19:34:57.748924",
-  "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/": "2026-05-01T08:44:59.802003",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/": "2026-05-01T10:34:26.441991",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/": "2026-05-01T11:28:29.525276",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/": "2026-05-01T13:34:08.049906",
-  "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/": "2026-05-01T14:28:12.150410",
   "https://www.bleepingcomputer.com/news/security/story-retracted/": "2026-05-01T17:25:29.393073",
   "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/": "2026-05-01T18:28:39.824364",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/": "2026-05-02T00:47:22.234807",
@@ -204,5 +197,6 @@
   "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/": "2026-05-29T18:57:28.937308",
   "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/": "2026-05-29T18:57:29.466682",
   "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/": "2026-05-30T14:35:38.030005",
-  "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/": "2026-05-30T18:27:54.011936"
+  "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/": "2026-05-30T18:27:54.011936",
+  "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/": "2026-05-31T14:36:37.438242"
 }
