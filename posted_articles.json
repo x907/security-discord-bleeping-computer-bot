@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/": "2026-05-02T15:19:01.693537",
   "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/": "2026-05-02T22:16:04.817761",
   "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/": "2026-05-03T14:22:34.864927",
   "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/": "2026-05-03T18:22:46.059914",
@@ -201,5 +200,6 @@
   "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/": "2026-06-01T15:08:54.407659",
   "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/": "2026-06-01T15:08:55.154971",
   "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/": "2026-06-01T15:08:56.009494",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/": "2026-06-01T15:08:56.843680"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/": "2026-06-01T15:08:56.843680",
+  "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/": "2026-06-01T18:05:50.626356"
 }
