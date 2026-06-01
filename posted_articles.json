@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/": "2026-05-02T22:16:04.817761",
   "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/": "2026-05-03T14:22:34.864927",
   "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/": "2026-05-03T18:22:46.059914",
   "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/": "2026-05-03T22:17:12.755470",
@@ -204,5 +203,6 @@
   "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/": "2026-06-01T18:05:50.626356",
   "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/": "2026-06-01T20:29:47.500802",
   "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/": "2026-06-01T22:05:28.996174",
-  "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/": "2026-06-01T22:05:29.540814"
+  "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/": "2026-06-01T22:05:29.540814",
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/": "2026-06-01T23:34:29.370883"
 }
