@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/": "2026-05-03T22:17:12.755470",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/": "2026-05-04T10:43:57.411736",
   "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/": "2026-05-04T11:37:47.541823",
   "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/": "2026-05-04T12:41:17.904041",
@@ -208,5 +207,8 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/": "2026-06-02T17:37:41.919630",
   "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/": "2026-06-02T17:37:42.333913",
   "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/": "2026-06-02T17:37:42.717172",
-  "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/": "2026-06-02T21:08:31.496363"
+  "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/": "2026-06-02T21:08:31.496363",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/": "2026-06-02T22:45:12.212027",
+  "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/": "2026-06-02T22:45:12.581254",
+  "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/": "2026-06-02T22:45:13.581085"
 }
