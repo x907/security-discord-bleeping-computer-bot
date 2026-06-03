@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/": "2026-05-04T12:41:17.904041",
-  "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/": "2026-05-04T12:41:18.269618",
-  "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/": "2026-05-04T14:49:05.115543",
   "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/": "2026-05-04T16:38:21.371964",
   "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/": "2026-05-04T17:35:43.805848",
   "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/": "2026-05-04T20:33:20.178209",
@@ -214,5 +211,7 @@
   "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/": "2026-06-03T07:49:53.131439",
   "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/": "2026-06-03T09:42:58.478324",
   "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/": "2026-06-03T11:41:30.114459",
-  "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/": "2026-06-03T11:41:30.616979"
+  "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/": "2026-06-03T11:41:30.616979",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/": "2026-06-03T15:39:13.552774",
+  "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/": "2026-06-03T15:39:14.167396"
 }
