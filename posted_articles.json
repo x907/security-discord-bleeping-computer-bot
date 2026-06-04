@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/": "2026-05-05T15:40:23.250405",
-  "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/": "2026-05-05T15:40:23.859271",
-  "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/": "2026-05-05T15:40:24.466908",
   "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/": "2026-05-05T17:36:44.197404",
   "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/": "2026-05-05T18:36:32.766025",
   "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/": "2026-05-05T19:36:23.588591",
@@ -213,5 +210,7 @@
   "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/": "2026-06-04T13:13:19.704091",
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/": "2026-06-04T13:13:20.117227",
   "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/": "2026-06-04T15:07:09.528043",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/": "2026-06-04T15:07:10.313668"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/": "2026-06-04T15:07:10.313668",
+  "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/": "2026-06-04T17:07:28.970936",
+  "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/": "2026-06-04T17:07:29.492307"
 }
