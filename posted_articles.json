@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/": "2026-05-05T09:41:56.769296",
-  "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/": "2026-05-05T10:36:48.685901",
-  "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/": "2026-05-05T10:36:49.275894",
-  "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/": "2026-05-05T12:32:11.693244",
   "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/": "2026-05-05T15:40:23.250405",
   "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/": "2026-05-05T15:40:23.859271",
   "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/": "2026-05-05T15:40:24.466908",
@@ -213,5 +209,7 @@
   "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/": "2026-06-03T19:25:53.231592",
   "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/": "2026-06-03T21:08:59.305148",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/": "2026-06-03T21:08:59.734341",
-  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/": "2026-06-03T22:46:10.581995"
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/": "2026-06-03T22:46:10.581995",
+  "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/": "2026-06-04T13:13:19.704091",
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/": "2026-06-04T13:13:20.117227"
 }
