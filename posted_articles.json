@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/": "2026-05-05T19:36:23.588591",
-  "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/": "2026-05-05T21:26:03.361188",
-  "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/": "2026-05-05T21:26:04.123534",
   "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/": "2026-05-05T22:24:06.332724",
   "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/": "2026-05-06T09:52:07.916661",
   "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/": "2026-05-06T13:40:02.509167",
@@ -211,5 +208,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/": "2026-06-04T15:07:10.313668",
   "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/": "2026-06-04T17:07:28.970936",
   "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/": "2026-06-04T17:07:29.492307",
-  "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/": "2026-06-04T18:53:08.752138"
+  "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/": "2026-06-04T18:53:08.752138",
+  "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/": "2026-06-04T21:35:57.797922",
+  "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/": "2026-06-04T21:35:58.319006"
 }
