@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/": "2026-05-06T09:52:07.916661",
-  "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/": "2026-05-06T13:40:02.509167",
-  "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/": "2026-05-06T13:40:03.006129",
-  "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/": "2026-05-06T14:58:05.441859",
   "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/": "2026-05-06T17:35:43.988208",
   "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/": "2026-05-06T18:40:02.463591",
   "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/": "2026-05-06T18:40:03.324627",
@@ -211,5 +207,7 @@
   "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/": "2026-06-04T21:35:57.797922",
   "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/": "2026-06-04T21:35:58.319006",
   "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/": "2026-06-04T22:34:27.395633",
-  "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/": "2026-06-05T07:36:58.743768"
+  "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/": "2026-06-05T07:36:58.743768",
+  "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/": "2026-06-05T15:05:16.423571",
+  "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/": "2026-06-05T15:05:17.078795"
 }
