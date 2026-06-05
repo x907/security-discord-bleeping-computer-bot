@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/": "2026-05-06T17:35:43.988208",
-  "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/": "2026-05-06T18:40:02.463591",
-  "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/": "2026-05-06T18:40:03.324627",
   "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/": "2026-05-07T10:50:34.626954",
   "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/": "2026-05-07T12:44:58.133892",
   "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/": "2026-05-07T12:44:58.966734",
@@ -209,5 +206,7 @@
   "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/": "2026-06-04T22:34:27.395633",
   "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/": "2026-06-05T07:36:58.743768",
   "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/": "2026-06-05T15:05:16.423571",
-  "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/": "2026-06-05T15:05:17.078795"
+  "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/": "2026-06-05T15:05:17.078795",
+  "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/": "2026-06-05T18:44:31.806213",
+  "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/": "2026-06-05T18:44:32.571140"
 }
