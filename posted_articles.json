@@ -1,16 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/": "2026-05-07T15:00:08.139247",
-  "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/": "2026-05-07T15:00:08.732948",
-  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/": "2026-05-07T15:52:31.411430",
-  "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/": "2026-05-07T18:39:37.265737",
-  "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/": "2026-05-07T18:39:37.920033",
-  "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/": "2026-05-07T22:26:15.398201",
-  "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/": "2026-05-07T23:22:01.440178",
-  "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/": "2026-05-08T08:37:16.706844",
-  "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/": "2026-05-08T09:38:08.883593",
-  "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/": "2026-05-08T11:34:10.674664",
-  "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/": "2026-05-08T12:35:56.111954",
-  "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/": "2026-05-08T13:38:01.957383",
   "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": "2026-05-08T14:40:04.542010",
   "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/": "2026-05-08T16:35:23.167280",
   "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/": "2026-05-09T15:23:00.635183",
@@ -208,5 +196,7 @@
   "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/": "2026-06-05T18:44:32.571140",
   "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/": "2026-06-05T19:36:44.517584",
   "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/": "2026-06-05T22:29:40.329447",
-  "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/": "2026-06-06T14:35:56.206235"
+  "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/": "2026-06-06T14:35:56.206235",
+  "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/": "2026-06-07T14:39:53.341797",
+  "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/": "2026-06-07T14:39:53.876717"
 }
