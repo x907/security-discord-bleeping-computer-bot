@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/": "2026-05-10T14:28:32.686637",
   "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/": "2026-05-11T09:16:52.005644",
   "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/": "2026-05-11T13:07:10.224416",
   "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/": "2026-05-11T13:07:10.806082",
@@ -209,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/": "2026-06-08T22:34:51.433694",
   "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/": "2026-06-09T07:21:45.632964",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/": "2026-06-09T09:14:38.081821",
-  "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/": "2026-06-09T11:07:24.080864"
+  "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/": "2026-06-09T11:07:24.080864",
+  "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/": "2026-06-09T15:17:10.810833"
 }
