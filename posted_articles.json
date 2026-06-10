@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/": "2026-05-11T16:58:06.914695",
   "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/": "2026-05-11T22:26:43.128050",
   "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/": "2026-05-11T22:26:43.567813",
   "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/": "2026-05-11T23:23:04.814600",
@@ -221,5 +220,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/": "2026-06-10T13:18:13.615673",
   "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/": "2026-06-10T15:09:58.108448",
   "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/": "2026-06-10T15:09:58.580314",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/": "2026-06-10T15:09:59.001954"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/": "2026-06-10T15:09:59.001954",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/": "2026-06-10T17:10:52.419868"
 }
