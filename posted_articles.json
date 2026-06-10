@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/": "2026-05-11T09:16:52.005644",
   "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/": "2026-05-11T13:07:10.224416",
   "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/": "2026-05-11T13:07:10.806082",
   "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/": "2026-05-11T15:07:36.134781",
@@ -220,5 +219,6 @@
   "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/": "2026-06-09T21:37:16.880003",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/": "2026-06-09T23:32:22.102904",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/": "2026-06-10T03:13:52.397369",
-  "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/": "2026-06-10T07:36:33.972029"
+  "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/": "2026-06-10T07:36:33.972029",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/": "2026-06-10T11:19:34.653060"
 }
