@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/": "2026-05-12T10:51:14.059216",
-  "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/": "2026-05-12T11:40:55.147631",
-  "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/": "2026-05-12T11:40:55.780129",
   "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/": "2026-05-12T17:44:01.492496",
   "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/": "2026-05-12T17:44:01.964746",
   "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/": "2026-05-12T18:42:52.058647",
@@ -225,5 +222,7 @@
   "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/": "2026-06-10T21:44:39.459725",
   "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/": "2026-06-11T07:49:21.481425",
   "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/": "2026-06-11T07:49:21.968111",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/": "2026-06-11T09:36:17.136702"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/": "2026-06-11T09:36:17.136702",
+  "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/": "2026-06-11T13:27:29.311245",
+  "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/": "2026-06-11T13:27:29.963554"
 }
