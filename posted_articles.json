@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/": "2026-05-11T22:26:43.128050",
-  "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/": "2026-05-11T22:26:43.567813",
-  "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/": "2026-05-11T23:23:04.814600",
   "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/": "2026-05-12T10:51:14.059216",
   "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/": "2026-05-12T11:40:55.147631",
   "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/": "2026-05-12T11:40:55.780129",
@@ -225,5 +222,7 @@
   "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/": "2026-06-10T18:58:55.111992",
   "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/": "2026-06-10T19:52:46.601149",
   "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/": "2026-06-10T20:57:16.649704",
-  "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/": "2026-06-10T21:44:39.459725"
+  "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/": "2026-06-10T21:44:39.459725",
+  "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/": "2026-06-11T07:49:21.481425",
+  "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/": "2026-06-11T07:49:21.968111"
 }
