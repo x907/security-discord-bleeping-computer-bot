@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/": "2026-05-14T15:52:32.670588",
-  "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/": "2026-05-14T15:52:33.086605",
-  "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/": "2026-05-14T19:35:41.596901",
-  "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/": "2026-05-14T19:35:42.208326",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/": "2026-05-14T20:34:46.763777",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/": "2026-05-14T21:29:40.035792",
   "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/": "2026-05-14T23:22:40.624950",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/": "2026-05-15T10:51:07.951684",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/": "2026-05-15T12:43:42.028777",
@@ -216,5 +210,6 @@
   "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/": "2026-06-12T18:45:37.420187",
   "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/": "2026-06-12T19:42:32.871484",
   "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/": "2026-06-13T10:51:21.281321",
-  "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/": "2026-06-13T14:47:24.016639"
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/": "2026-06-13T14:47:24.016639",
+  "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/": "2026-06-13T21:31:18.993424"
 }
