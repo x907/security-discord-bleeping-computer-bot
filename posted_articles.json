@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/": "2026-05-13T20:38:01.345335",
-  "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/": "2026-05-13T22:30:21.353327",
-  "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/": "2026-05-13T22:30:21.934153",
-  "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/": "2026-05-14T09:02:02.278805",
-  "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/": "2026-05-14T09:02:02.689942",
-  "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/": "2026-05-14T10:51:12.118970",
   "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/": "2026-05-14T12:43:54.215461",
   "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/": "2026-05-14T15:52:32.670588",
   "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/": "2026-05-14T15:52:33.086605",
@@ -221,5 +215,6 @@
   "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/": "2026-06-12T17:04:35.253341",
   "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/": "2026-06-12T18:45:36.890230",
   "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/": "2026-06-12T18:45:37.420187",
-  "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/": "2026-06-12T19:42:32.871484"
+  "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/": "2026-06-12T19:42:32.871484",
+  "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/": "2026-06-13T10:51:21.281321"
 }
