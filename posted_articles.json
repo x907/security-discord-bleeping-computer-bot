@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": "2026-05-16T21:19:50.410351",
   "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/": "2026-05-17T15:26:03.900973",
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/": "2026-05-17T23:22:10.246940",
   "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/": "2026-05-18T07:32:02.700510",
@@ -212,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/": "2026-06-15T16:40:34.669898",
   "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/": "2026-06-15T18:34:43.837440",
   "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/": "2026-06-15T18:34:44.336727",
-  "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/": "2026-06-15T20:12:03.378712"
+  "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/": "2026-06-15T20:12:03.378712",
+  "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/": "2026-06-15T22:44:25.168640"
 }
