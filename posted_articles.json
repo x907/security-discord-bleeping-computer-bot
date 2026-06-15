@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/": "2026-05-15T14:52:59.809922",
-  "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/": "2026-05-15T14:53:00.415791",
-  "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/": "2026-05-15T16:39:46.697247",
-  "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/": "2026-05-15T17:34:53.886804",
-  "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/": "2026-05-15T18:38:16.790294",
-  "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/": "2026-05-15T19:34:34.807428",
   "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/": "2026-05-16T14:31:12.944204",
   "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": "2026-05-16T21:19:50.410351",
   "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/": "2026-05-17T15:26:03.900973",
@@ -209,5 +203,10 @@
   "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/": "2026-06-13T10:51:21.281321",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/": "2026-06-13T14:47:24.016639",
   "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/": "2026-06-13T21:31:18.993424",
-  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/": "2026-06-14T14:49:24.303286"
+  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/": "2026-06-14T14:49:24.303286",
+  "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/": "2026-06-15T14:14:00.271838",
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/": "2026-06-15T14:14:00.810138",
+  "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/": "2026-06-15T14:14:01.351243",
+  "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/": "2026-06-15T14:14:01.937929",
+  "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/": "2026-06-15T14:14:02.534535"
 }
