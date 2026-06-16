@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/": "2026-05-17T15:26:03.900973",
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/": "2026-05-17T23:22:10.246940",
   "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/": "2026-05-18T07:32:02.700510",
   "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/": "2026-05-18T07:32:03.302129",
@@ -220,5 +219,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/": "2026-06-16T12:37:57.296226",
   "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/": "2026-06-16T14:40:27.699398",
   "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/": "2026-06-16T14:40:28.264372",
-  "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/": "2026-06-16T14:40:28.790567"
+  "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/": "2026-06-16T14:40:28.790567",
+  "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/": "2026-06-16T18:32:26.529446"
 }
