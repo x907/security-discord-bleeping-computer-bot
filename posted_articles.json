@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/": "2026-05-18T22:24:16.338956",
-  "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/": "2026-05-18T22:24:16.745995",
   "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/": "2026-05-19T13:14:31.427446",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/": "2026-05-19T13:14:32.113217",
   "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/": "2026-05-19T15:09:52.475032",
@@ -222,5 +220,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/": "2026-06-17T13:23:22.219967",
   "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/": "2026-06-17T15:08:49.682058",
   "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/": "2026-06-17T17:06:24.565877",
-  "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/": "2026-06-17T21:41:12.128807"
+  "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/": "2026-06-17T21:41:12.128807",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/": "2026-06-18T03:14:18.479024"
 }
