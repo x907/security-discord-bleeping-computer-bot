@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/": "2026-05-19T13:14:31.427446",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/": "2026-05-19T13:14:32.113217",
   "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/": "2026-05-19T15:09:52.475032",
   "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/": "2026-05-19T15:09:52.871995",
   "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/": "2026-05-19T15:09:53.312443",
@@ -222,5 +220,9 @@
   "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/": "2026-06-17T17:06:24.565877",
   "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/": "2026-06-17T21:41:12.128807",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/": "2026-06-18T03:14:18.479024",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/": "2026-06-18T11:26:42.266878"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/": "2026-06-18T11:26:42.266878",
+  "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/": "2026-06-18T13:17:47.743922",
+  "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/": "2026-06-18T13:17:48.544086",
+  "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/": "2026-06-18T13:17:48.987204",
+  "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-06-18T13:17:49.449421"
 }
