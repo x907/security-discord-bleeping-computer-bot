@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/": "2026-05-19T15:09:52.475032",
-  "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/": "2026-05-19T15:09:52.871995",
-  "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/": "2026-05-19T15:09:53.312443",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/": "2026-05-19T17:02:33.002066",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/": "2026-05-19T17:02:33.455507",
   "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/": "2026-05-19T19:36:33.458700",
   "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/": "2026-05-19T20:38:41.305867",
   "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/": "2026-05-19T20:38:41.685859",
@@ -227,5 +222,6 @@
   "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-06-18T13:17:49.449421",
   "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/": "2026-06-18T15:08:28.574215",
   "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/": "2026-06-18T15:08:29.039393",
-  "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/": "2026-06-18T15:08:29.927692"
+  "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/": "2026-06-18T15:08:29.927692",
+  "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/": "2026-06-18T17:08:14.432556"
 }
