@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/": "2026-05-20T05:26:11.194172",
   "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/": "2026-05-20T09:14:12.144577",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/": "2026-05-20T09:14:12.750256",
   "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/": "2026-05-20T11:05:49.985231",
@@ -220,5 +219,6 @@
   "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/": "2026-06-18T15:08:29.927692",
   "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/": "2026-06-18T17:08:14.432556",
   "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/": "2026-06-18T18:53:37.929182",
-  "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/": "2026-06-18T22:42:32.999986"
+  "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/": "2026-06-18T22:42:32.999986",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/": "2026-06-19T07:59:36.626842"
 }
