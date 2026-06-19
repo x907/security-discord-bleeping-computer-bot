@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/": "2026-05-20T12:59:34.165739",
   "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/": "2026-05-20T15:14:45.677094",
   "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/": "2026-05-20T17:09:07.158821",
   "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/": "2026-05-20T21:37:20.589451",
@@ -220,5 +219,7 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/": "2026-06-19T07:59:36.626842",
   "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/": "2026-06-19T09:44:49.855541",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/": "2026-06-19T11:36:09.108708",
-  "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/": "2026-06-19T11:36:09.626328"
+  "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/": "2026-06-19T11:36:09.626328",
+  "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/": "2026-06-19T13:17:29.404473",
+  "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/": "2026-06-19T13:17:29.794600"
 }
