@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/": "2026-05-20T09:14:12.144577",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/": "2026-05-20T09:14:12.750256",
   "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/": "2026-05-20T11:05:49.985231",
   "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/": "2026-05-20T12:59:34.165739",
   "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/": "2026-05-20T15:14:45.677094",
@@ -220,5 +218,6 @@
   "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/": "2026-06-18T17:08:14.432556",
   "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/": "2026-06-18T18:53:37.929182",
   "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/": "2026-06-18T22:42:32.999986",
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/": "2026-06-19T07:59:36.626842"
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/": "2026-06-19T07:59:36.626842",
+  "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/": "2026-06-19T09:44:49.855541"
 }
