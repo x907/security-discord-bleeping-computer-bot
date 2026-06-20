@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": "2026-05-21T15:11:26.364039",
-  "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/": "2026-05-21T15:11:27.324291",
-  "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/": "2026-05-21T15:11:27.811200",
-  "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/": "2026-05-21T15:11:28.872043",
   "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/": "2026-05-21T18:43:23.552907",
   "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/": "2026-05-22T09:12:09.623412",
   "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/": "2026-05-22T12:56:55.697207",
@@ -217,5 +213,6 @@
   "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/": "2026-06-19T16:52:34.053515",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/": "2026-06-19T20:35:14.180016",
   "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/": "2026-06-19T23:26:44.641329",
-  "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/": "2026-06-20T14:49:52.315491"
+  "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/": "2026-06-20T14:49:52.315491",
+  "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/": "2026-06-20T15:36:59.063378"
 }
