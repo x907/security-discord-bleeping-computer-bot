@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": "2026-05-23T21:21:04.738142",
   "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/": "2026-05-24T14:34:47.610028",
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/": "2026-05-25T13:16:06.666603",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/": "2026-05-25T17:35:33.110138",
@@ -210,5 +209,7 @@
   "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/": "2026-06-22T15:44:34.772196",
   "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/": "2026-06-22T17:35:38.860909",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/": "2026-06-22T19:11:17.266525",
-  "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/": "2026-06-22T21:04:55.849823"
+  "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/": "2026-06-22T21:04:55.849823",
+  "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/": "2026-06-22T22:37:01.573204",
+  "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/": "2026-06-22T22:37:02.136961"
 }
