@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/": "2026-05-25T17:35:33.110138",
   "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/": "2026-05-26T07:20:25.218306",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/": "2026-05-26T09:17:07.882365",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/": "2026-05-26T09:17:08.238223",
@@ -223,5 +222,7 @@
   "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/": "2026-06-24T11:05:03.023298",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/": "2026-06-24T15:00:43.000516",
   "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/": "2026-06-24T15:00:43.688363",
-  "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/": "2026-06-24T15:00:44.301384"
+  "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/": "2026-06-24T15:00:44.301384",
+  "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/": "2026-06-24T21:33:18.502012",
+  "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/": "2026-06-24T21:33:19.251392"
 }
