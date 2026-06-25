@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/": "2026-05-26T07:20:25.218306",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/": "2026-05-26T09:17:07.882365",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/": "2026-05-26T09:17:08.238223",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/": "2026-05-26T13:07:28.454075",
   "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/": "2026-05-26T13:07:29.036021",
   "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/": "2026-05-26T15:09:27.301820",
@@ -226,5 +223,6 @@
   "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/": "2026-06-24T21:33:18.502012",
   "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/": "2026-06-24T21:33:19.251392",
   "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/": "2026-06-24T22:31:36.713655",
-  "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/": "2026-06-25T00:56:57.708437"
+  "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/": "2026-06-25T00:56:57.708437",
+  "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/": "2026-06-25T12:53:08.642803"
 }
