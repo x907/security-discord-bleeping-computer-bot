@@ -1,15 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/": "2026-05-28T15:13:54.028688",
-  "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/": "2026-05-28T15:13:54.405011",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/": "2026-05-28T18:57:48.693619",
-  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/": "2026-05-28T19:52:08.184281",
-  "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/": "2026-05-28T21:41:58.117830",
-  "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/": "2026-05-28T22:35:23.103969",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/": "2026-05-29T00:58:58.133797",
-  "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/": "2026-05-29T09:16:32.130203",
-  "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/": "2026-05-29T11:10:41.115100",
-  "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/": "2026-05-29T13:14:02.458608",
-  "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/": "2026-05-29T13:14:02.810540",
   "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/": "2026-05-29T15:11:19.331706",
   "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/": "2026-05-29T15:11:19.993888",
   "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/": "2026-05-29T18:57:28.937308",
@@ -222,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/": "2026-06-26T18:42:17.187498",
   "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/": "2026-06-26T20:37:59.184146",
   "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/": "2026-06-26T22:29:53.543672",
-  "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/": "2026-06-27T14:35:43.374069"
+  "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/": "2026-06-27T14:35:43.374069",
+  "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/": "2026-06-28T14:37:25.952425"
 }
