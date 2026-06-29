@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/": "2026-05-30T18:27:54.011936",
   "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/": "2026-05-31T14:36:37.438242",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/": "2026-06-01T12:06:33.832543",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/": "2026-06-01T12:06:34.317849",
@@ -213,5 +212,7 @@
   "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/": "2026-06-29T15:13:29.818375",
   "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/": "2026-06-29T15:13:30.348698",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/": "2026-06-29T15:13:30.778416",
-  "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/": "2026-06-29T15:13:31.309727"
+  "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/": "2026-06-29T15:13:31.309727",
+  "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/": "2026-06-29T18:46:13.912140",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/": "2026-06-29T18:46:14.506637"
 }
