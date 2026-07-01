@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/": "2026-06-01T18:05:50.626356",
-  "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/": "2026-06-01T20:29:47.500802",
   "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/": "2026-06-01T22:05:28.996174",
   "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/": "2026-06-01T22:05:29.540814",
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/": "2026-06-01T23:34:29.370883",
@@ -229,5 +227,6 @@
   "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/": "2026-07-01T15:03:32.223775",
   "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/": "2026-07-01T16:50:43.256294",
   "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/": "2026-07-01T17:38:58.765296",
-  "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/": "2026-07-01T17:38:59.490066"
+  "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/": "2026-07-01T17:38:59.490066",
+  "https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/": "2026-07-01T20:38:13.568496"
 }
