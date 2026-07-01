@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/": "2026-06-01T12:06:33.832543",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/": "2026-06-01T12:06:34.317849",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/": "2026-06-01T15:08:53.725373",
   "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/": "2026-06-01T15:08:54.407659",
   "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/": "2026-06-01T15:08:55.154971",
@@ -231,5 +229,6 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/": "2026-07-01T01:00:41.651553",
   "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/": "2026-07-01T07:37:26.660451",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/": "2026-07-01T11:09:52.302134",
-  "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/": "2026-07-01T11:09:53.091544"
+  "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/": "2026-07-01T11:09:53.091544",
+  "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/": "2026-07-01T13:02:59.661529"
 }
