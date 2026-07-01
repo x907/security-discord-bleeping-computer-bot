@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/": "2026-06-01T15:08:53.725373",
-  "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/": "2026-06-01T15:08:54.407659",
-  "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/": "2026-06-01T15:08:55.154971",
-  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/": "2026-06-01T15:08:56.009494",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/": "2026-06-01T15:08:56.843680",
   "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/": "2026-06-01T18:05:50.626356",
   "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/": "2026-06-01T20:29:47.500802",
   "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/": "2026-06-01T22:05:28.996174",
@@ -231,5 +226,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/": "2026-07-01T11:09:52.302134",
   "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/": "2026-07-01T11:09:53.091544",
   "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/": "2026-07-01T13:02:59.661529",
-  "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/": "2026-07-01T15:03:32.223775"
+  "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/": "2026-07-01T15:03:32.223775",
+  "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/": "2026-07-01T16:50:43.256294"
 }
