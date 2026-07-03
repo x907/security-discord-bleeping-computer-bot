@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/": "2026-06-03T05:43:44.230656",
-  "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/": "2026-06-03T07:49:53.131439",
-  "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/": "2026-06-03T09:42:58.478324",
-  "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/": "2026-06-03T11:41:30.114459",
-  "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/": "2026-06-03T11:41:30.616979",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/": "2026-06-03T15:39:13.552774",
   "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/": "2026-06-03T15:39:14.167396",
   "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/": "2026-06-03T19:25:53.231592",
@@ -228,5 +223,6 @@
   "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/": "2026-07-02T15:23:42.506041",
   "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/": "2026-07-02T15:23:42.853720",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/": "2026-07-03T03:23:41.739590",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/": "2026-07-03T03:23:42.533273"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/": "2026-07-03T03:23:42.533273",
+  "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/": "2026-07-03T15:13:31.806403"
 }
