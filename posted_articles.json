@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/": "2026-06-03T19:25:53.231592",
-  "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/": "2026-06-03T21:08:59.305148",
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/": "2026-06-03T21:08:59.734341",
-  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/": "2026-06-03T22:46:10.581995",
-  "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/": "2026-06-04T13:13:19.704091",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/": "2026-06-04T13:13:20.117227",
   "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/": "2026-06-04T15:07:09.528043",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/": "2026-06-04T15:07:10.313668",
   "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/": "2026-06-04T17:07:28.970936",
@@ -223,5 +217,6 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/": "2026-07-03T03:23:41.739590",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/": "2026-07-03T03:23:42.533273",
   "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/": "2026-07-03T15:13:31.806403",
-  "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/": "2026-07-03T19:24:35.586110"
+  "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/": "2026-07-03T19:24:35.586110",
+  "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/": "2026-07-04T15:05:53.663914"
 }
