@@ -1,15 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/": "2026-06-04T15:07:09.528043",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/": "2026-06-04T15:07:10.313668",
-  "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/": "2026-06-04T17:07:28.970936",
-  "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/": "2026-06-04T17:07:29.492307",
-  "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/": "2026-06-04T18:53:08.752138",
-  "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/": "2026-06-04T21:35:57.797922",
-  "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/": "2026-06-04T21:35:58.319006",
-  "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/": "2026-06-04T22:34:27.395633",
-  "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/": "2026-06-05T07:36:58.743768",
-  "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/": "2026-06-05T15:05:16.423571",
-  "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/": "2026-06-05T15:05:17.078795",
   "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/": "2026-06-05T18:44:31.806213",
   "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/": "2026-06-05T18:44:32.571140",
   "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/": "2026-06-05T19:36:44.517584",
@@ -218,5 +207,6 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/": "2026-07-03T03:23:42.533273",
   "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/": "2026-07-03T15:13:31.806403",
   "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/": "2026-07-03T19:24:35.586110",
-  "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/": "2026-07-04T15:05:53.663914"
+  "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/": "2026-07-04T15:05:53.663914",
+  "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/": "2026-07-05T15:12:57.322794"
 }
