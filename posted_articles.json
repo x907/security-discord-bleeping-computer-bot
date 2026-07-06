@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/": "2026-06-05T18:44:31.806213",
-  "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/": "2026-06-05T18:44:32.571140",
-  "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/": "2026-06-05T19:36:44.517584",
-  "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/": "2026-06-05T22:29:40.329447",
-  "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/": "2026-06-06T14:35:56.206235",
   "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/": "2026-06-07T14:39:53.341797",
   "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/": "2026-06-07T14:39:53.876717",
   "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/": "2026-06-07T23:26:50.235178",
@@ -208,5 +203,7 @@
   "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/": "2026-07-03T15:13:31.806403",
   "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/": "2026-07-03T19:24:35.586110",
   "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/": "2026-07-04T15:05:53.663914",
-  "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/": "2026-07-05T15:12:57.322794"
+  "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/": "2026-07-05T15:12:57.322794",
+  "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/": "2026-07-06T16:20:41.493636",
+  "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/": "2026-07-06T16:20:42.321032"
 }
