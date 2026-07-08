@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/": "2026-06-07T23:26:50.235178",
-  "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/": "2026-06-08T07:51:45.166859",
   "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/": "2026-06-08T11:40:32.197062",
   "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/": "2026-06-08T13:34:33.653718",
   "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/": "2026-06-08T15:12:11.046467",
@@ -216,5 +214,7 @@
   "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/": "2026-07-07T17:14:47.203016",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/": "2026-07-07T19:56:21.862709",
   "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/": "2026-07-07T19:56:22.492934",
-  "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/": "2026-07-07T23:02:18.206462"
+  "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/": "2026-07-07T23:02:18.206462",
+  "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/": "2026-07-08T08:30:07.849757",
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/": "2026-07-08T08:30:08.339951"
 }
