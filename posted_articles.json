@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/": "2026-06-08T15:12:11.046467",
-  "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/": "2026-06-08T17:11:37.754124",
-  "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/": "2026-06-08T17:11:38.246229",
   "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/": "2026-06-08T18:55:15.105468",
   "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/": "2026-06-08T20:56:24.211135",
   "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/": "2026-06-08T21:37:52.674801",
@@ -218,5 +215,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/": "2026-07-08T11:05:31.448432",
   "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/": "2026-07-08T14:11:32.448683",
   "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/": "2026-07-08T14:11:33.086705",
-  "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/": "2026-07-08T14:11:33.769232"
+  "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/": "2026-07-08T14:11:33.769232",
+  "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/": "2026-07-08T18:18:05.016509"
 }
