@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/": "2026-06-09T09:14:38.081821",
-  "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/": "2026-06-09T11:07:24.080864",
-  "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/": "2026-06-09T15:17:10.810833",
   "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/": "2026-06-09T16:59:04.860581",
   "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/": "2026-06-09T16:59:05.331419",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/": "2026-06-09T17:45:38.599917",
@@ -215,5 +212,9 @@
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/": "2026-07-08T20:21:01.521459",
   "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/": "2026-07-08T22:07:10.493649",
   "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/": "2026-07-09T08:33:31.263425",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/": "2026-07-09T08:33:31.938958"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/": "2026-07-09T08:33:31.938958",
+  "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/": "2026-07-09T15:56:08.727394",
+  "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/": "2026-07-09T15:56:09.396177",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/": "2026-07-09T15:56:09.922963",
+  "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/": "2026-07-09T15:56:10.506767"
 }
