@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/": "2026-06-09T21:37:16.497094",
-  "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/": "2026-06-09T21:37:16.880003",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/": "2026-06-09T23:32:22.102904",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/": "2026-06-10T03:13:52.397369",
   "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/": "2026-06-10T07:36:33.972029",
@@ -213,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/": "2026-07-09T15:56:10.506767",
   "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/": "2026-07-09T17:58:58.017627",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/": "2026-07-09T17:58:58.742885",
-  "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/": "2026-07-09T21:35:40.773388"
+  "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/": "2026-07-09T21:35:40.773388",
+  "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/": "2026-07-09T23:12:45.845532"
 }
