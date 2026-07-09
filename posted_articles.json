@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/": "2026-06-09T16:59:04.860581",
-  "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/": "2026-06-09T16:59:05.331419",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/": "2026-06-09T17:45:38.599917",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/": "2026-06-09T18:49:43.264871",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/": "2026-06-09T18:49:43.932818",
   "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/": "2026-06-09T19:44:14.883504",
@@ -216,5 +213,7 @@
   "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/": "2026-07-09T15:56:08.727394",
   "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/": "2026-07-09T15:56:09.396177",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/": "2026-07-09T15:56:09.922963",
-  "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/": "2026-07-09T15:56:10.506767"
+  "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/": "2026-07-09T15:56:10.506767",
+  "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/": "2026-07-09T17:58:58.017627",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/": "2026-07-09T17:58:58.742885"
 }
