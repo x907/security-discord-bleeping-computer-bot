@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/": "2026-06-10T11:19:34.653060",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/": "2026-06-10T13:18:13.615673",
   "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/": "2026-06-10T15:09:58.108448",
   "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/": "2026-06-10T15:09:58.580314",
@@ -210,5 +209,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/": "2026-07-09T17:58:58.742885",
   "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/": "2026-07-09T21:35:40.773388",
   "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/": "2026-07-09T23:12:45.845532",
-  "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/": "2026-07-10T10:55:54.772444"
+  "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/": "2026-07-10T10:55:54.772444",
+  "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/": "2026-07-10T13:13:13.409870"
 }
