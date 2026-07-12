@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/": "2026-06-12T15:08:14.779865",
-  "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/": "2026-06-12T17:04:35.253341",
-  "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/": "2026-06-12T18:45:36.890230",
-  "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/": "2026-06-12T18:45:37.420187",
-  "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/": "2026-06-12T19:42:32.871484",
   "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/": "2026-06-13T10:51:21.281321",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/": "2026-06-13T14:47:24.016639",
   "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/": "2026-06-13T21:31:18.993424",
@@ -197,5 +192,6 @@
   "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/": "2026-07-10T22:04:22.916240",
   "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/": "2026-07-11T10:15:29.926390",
   "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/": "2026-07-11T14:54:51.450863",
-  "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/": "2026-07-12T14:57:19.299728"
+  "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/": "2026-07-12T14:57:19.299728",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/": "2026-07-12T20:52:15.040394"
 }
