@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/": "2026-06-14T14:49:24.303286",
   "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/": "2026-06-15T14:14:00.271838",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/": "2026-06-15T14:14:00.810138",
   "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/": "2026-06-15T14:14:01.351243",
@@ -203,5 +202,8 @@
   "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/": "2026-07-13T21:57:29.403685",
   "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/": "2026-07-14T10:47:07.027134",
   "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/": "2026-07-14T12:13:27.380107",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/": "2026-07-14T12:13:27.745118"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/": "2026-07-14T12:13:27.745118",
+  "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/": "2026-07-14T14:52:10.676861",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/": "2026-07-14T14:52:11.056453",
+  "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/": "2026-07-14T14:52:11.539821"
 }
