@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/": "2026-06-15T16:40:34.243322",
-  "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/": "2026-06-15T16:40:34.669898",
-  "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/": "2026-06-15T18:34:43.837440",
-  "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/": "2026-06-15T18:34:44.336727",
   "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/": "2026-06-15T20:12:03.378712",
   "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/": "2026-06-15T22:44:25.168640",
   "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/": "2026-06-16T08:08:08.783610",
@@ -213,5 +209,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/": "2026-07-15T10:50:49.143441",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/": "2026-07-15T10:50:49.637833",
   "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/": "2026-07-15T14:51:21.593859",
-  "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/": "2026-07-15T16:22:41.708102"
+  "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/": "2026-07-15T16:22:41.708102",
+  "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/": "2026-07-15T20:09:52.317738"
 }
