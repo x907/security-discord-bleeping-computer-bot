@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/": "2026-06-15T22:44:25.168640",
-  "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/": "2026-06-16T08:08:08.783610",
-  "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/": "2026-06-16T10:40:24.431706",
-  "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/": "2026-06-16T10:40:25.014532",
-  "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/": "2026-06-16T10:40:25.517884",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/": "2026-06-16T12:37:57.296226",
   "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/": "2026-06-16T14:40:27.699398",
   "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/": "2026-06-16T14:40:28.264372",
@@ -211,5 +206,8 @@
   "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/": "2026-07-15T16:22:41.708102",
   "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/": "2026-07-15T20:09:52.317738",
   "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/": "2026-07-15T22:01:34.534363",
-  "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/": "2026-07-15T22:01:35.208719"
+  "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/": "2026-07-15T22:01:35.208719",
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/": "2026-07-16T11:40:07.533643",
+  "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/": "2026-07-16T11:40:08.126224",
+  "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/": "2026-07-16T11:40:08.531142"
 }
