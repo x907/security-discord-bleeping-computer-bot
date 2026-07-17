@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/": "2026-06-16T22:40:49.908729",
-  "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/": "2026-06-17T07:59:21.292607",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/": "2026-06-17T09:49:16.757554",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/": "2026-06-17T11:38:03.617688",
   "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/": "2026-06-17T13:23:21.627040",
@@ -211,5 +209,7 @@
   "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/": "2026-07-16T19:12:42.173237",
   "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/": "2026-07-16T21:00:01.901376",
   "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/": "2026-07-16T22:11:08.110380",
-  "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/": "2026-07-16T22:11:08.463128"
+  "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/": "2026-07-16T22:11:08.463128",
+  "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/": "2026-07-17T09:10:03.549333",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/": "2026-07-17T09:10:04.005002"
 }
