@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/": "2026-06-17T17:06:24.565877",
   "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/": "2026-06-17T21:41:12.128807",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/": "2026-06-18T03:14:18.479024",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/": "2026-06-18T11:26:42.266878",
@@ -210,5 +209,6 @@
   "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/": "2026-07-17T11:22:16.795736",
   "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/": "2026-07-17T11:22:17.335512",
   "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/": "2026-07-17T15:13:59.021586",
-  "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/": "2026-07-17T15:13:59.402352"
+  "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/": "2026-07-17T15:13:59.402352",
+  "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/": "2026-07-17T19:11:20.363653"
 }
