@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/": "2026-06-17T21:41:12.128807",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/": "2026-06-18T03:14:18.479024",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/": "2026-06-18T11:26:42.266878",
-  "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/": "2026-06-18T13:17:47.743922",
-  "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/": "2026-06-18T13:17:48.544086",
-  "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/": "2026-06-18T13:17:48.987204",
-  "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-06-18T13:17:49.449421",
   "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/": "2026-06-18T15:08:28.574215",
   "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/": "2026-06-18T15:08:29.039393",
   "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/": "2026-06-18T15:08:29.927692",
@@ -211,5 +204,7 @@
   "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/": "2026-07-17T15:13:59.021586",
   "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/": "2026-07-17T15:13:59.402352",
   "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/": "2026-07-17T19:11:20.363653",
-  "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/": "2026-07-17T20:56:37.859975"
+  "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/": "2026-07-17T20:56:37.859975",
+  "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/": "2026-07-18T14:53:54.946794",
+  "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/": "2026-07-18T14:53:56.206621"
 }
