@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/": "2026-06-18T15:08:28.574215",
-  "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/": "2026-06-18T15:08:29.039393",
-  "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/": "2026-06-18T15:08:29.927692",
-  "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/": "2026-06-18T17:08:14.432556",
-  "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/": "2026-06-18T18:53:37.929182",
   "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/": "2026-06-18T22:42:32.999986",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/": "2026-06-19T07:59:36.626842",
   "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/": "2026-06-19T09:44:49.855541",
@@ -206,5 +201,6 @@
   "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/": "2026-07-17T19:11:20.363653",
   "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/": "2026-07-17T20:56:37.859975",
   "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/": "2026-07-18T14:53:54.946794",
-  "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/": "2026-07-18T14:53:56.206621"
+  "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/": "2026-07-18T14:53:56.206621",
+  "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/": "2026-07-18T19:06:00.578756"
 }
