@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/": "2026-06-20T14:49:52.315491",
-  "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/": "2026-06-20T15:36:59.063378",
   "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/": "2026-06-21T14:50:00.046691",
   "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/": "2026-06-22T15:44:34.772196",
   "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/": "2026-06-22T17:35:38.860909",
@@ -198,5 +196,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/": "2026-07-20T10:12:14.337347",
   "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/": "2026-07-20T10:12:14.875630",
   "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/": "2026-07-20T13:07:04.189852",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/": "2026-07-20T13:07:04.645959"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/": "2026-07-20T13:07:04.645959",
+  "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/": "2026-07-20T15:50:58.100922"
 }
