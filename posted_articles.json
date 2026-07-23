@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/": "2026-06-23T13:05:04.007855",
   "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/": "2026-06-23T15:05:14.597200",
   "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/": "2026-06-23T15:05:15.264852",
   "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/": "2026-06-23T16:53:26.377676",
@@ -219,5 +218,7 @@
   "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/": "2026-07-22T23:04:33.781771",
   "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/": "2026-07-23T08:31:57.717300",
   "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/": "2026-07-23T11:10:47.753918",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/": "2026-07-23T11:10:48.597744"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/": "2026-07-23T11:10:48.597744",
+  "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/": "2026-07-23T14:02:28.094680",
+  "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/": "2026-07-23T14:02:28.488853"
 }
