@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/": "2026-06-23T15:05:14.597200",
-  "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/": "2026-06-23T15:05:15.264852",
   "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/": "2026-06-23T16:53:26.377676",
   "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/": "2026-06-23T18:47:52.174988",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/": "2026-06-23T20:47:58.980816",
@@ -220,5 +218,7 @@
   "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/": "2026-07-23T11:10:47.753918",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/": "2026-07-23T11:10:48.597744",
   "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/": "2026-07-23T14:02:28.094680",
-  "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/": "2026-07-23T14:02:28.488853"
+  "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/": "2026-07-23T14:02:28.488853",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/": "2026-07-23T16:27:00.547222",
+  "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/": "2026-07-23T16:27:01.129977"
 }
