@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/": "2026-06-23T22:30:58.443072",
   "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/": "2026-06-24T11:05:03.023298",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/": "2026-06-24T15:00:43.000516",
   "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/": "2026-06-24T15:00:43.688363",
@@ -218,5 +217,6 @@
   "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/": "2026-07-23T16:27:01.129977",
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/": "2026-07-23T18:12:48.335191",
   "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/": "2026-07-23T22:04:22.230606",
-  "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/": "2026-07-23T22:04:23.014264"
+  "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/": "2026-07-23T22:04:23.014264",
+  "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/": "2026-07-24T10:18:47.657483"
 }
