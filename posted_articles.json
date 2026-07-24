@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/": "2026-06-24T15:00:43.000516",
-  "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/": "2026-06-24T15:00:43.688363",
-  "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/": "2026-06-24T15:00:44.301384",
   "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/": "2026-06-24T21:33:18.502012",
   "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/": "2026-06-24T21:33:19.251392",
   "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/": "2026-06-24T22:31:36.713655",
@@ -221,5 +218,6 @@
   "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/": "2026-07-24T12:19:19.300916",
   "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/": "2026-07-24T14:55:40.004717",
   "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/": "2026-07-24T14:55:40.703505",
-  "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/": "2026-07-24T14:55:41.394612"
+  "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/": "2026-07-24T14:55:41.394612",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/": "2026-07-24T16:43:41.416296"
 }
