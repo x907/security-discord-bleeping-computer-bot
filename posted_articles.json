@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/": "2026-06-24T21:33:18.502012",
-  "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/": "2026-06-24T21:33:19.251392",
-  "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/": "2026-06-24T22:31:36.713655",
-  "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/": "2026-06-25T00:56:57.708437",
   "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/": "2026-06-25T12:53:08.642803",
   "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/": "2026-06-25T15:03:06.832448",
   "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/": "2026-06-25T16:50:04.578986",
@@ -222,5 +218,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/": "2026-07-24T16:43:41.416296",
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/": "2026-07-24T18:18:08.430703",
   "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/": "2026-07-24T20:20:12.622428",
-  "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/": "2026-07-24T20:20:12.969566"
+  "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/": "2026-07-24T20:20:12.969566",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/": "2026-07-25T09:48:22.503958"
 }
