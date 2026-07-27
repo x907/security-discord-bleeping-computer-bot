@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/": "2026-06-26T14:58:27.967136",
-  "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/": "2026-06-26T18:42:16.566658",
-  "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/": "2026-06-26T18:42:17.187498",
-  "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/": "2026-06-26T20:37:59.184146",
-  "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/": "2026-06-26T22:29:53.543672",
-  "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/": "2026-06-27T14:35:43.374069",
   "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/": "2026-06-28T14:37:25.952425",
   "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/": "2026-06-29T11:43:54.880585",
   "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/": "2026-06-29T13:35:50.754472",
@@ -214,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/": "2026-07-25T15:03:35.697930",
   "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/": "2026-07-25T16:58:47.052234",
   "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/": "2026-07-25T22:58:39.567399",
-  "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/": "2026-07-26T14:36:53.185915"
+  "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/": "2026-07-26T14:36:53.185915",
+  "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/": "2026-07-27T14:36:51.856379"
 }
