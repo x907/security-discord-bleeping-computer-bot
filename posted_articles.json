@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/": "2026-06-29T18:46:13.912140",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/": "2026-06-29T18:46:14.506637",
-  "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/": "2026-06-29T20:40:12.495273",
-  "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/": "2026-06-29T21:33:27.798003",
   "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/": "2026-06-30T09:13:04.777073",
   "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/": "2026-06-30T11:05:40.270259",
   "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/": "2026-06-30T11:05:41.019710",
@@ -222,5 +218,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/": "2026-07-29T14:11:19.432715",
   "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/": "2026-07-29T16:21:47.513369",
   "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/": "2026-07-29T16:21:48.123931",
-  "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/": "2026-07-29T18:07:47.329167"
+  "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/": "2026-07-29T18:07:47.329167",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/": "2026-07-29T22:01:08.129650",
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/": "2026-07-29T22:01:08.567431"
 }
