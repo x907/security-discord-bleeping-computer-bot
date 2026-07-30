@@ -1,12 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/": "2026-06-30T09:13:04.777073",
-  "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/": "2026-06-30T11:05:40.270259",
-  "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/": "2026-06-30T11:05:41.019710",
-  "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/": "2026-06-30T11:05:41.527452",
-  "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/": "2026-06-30T12:47:35.839782",
-  "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/": "2026-06-30T14:56:41.865007",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/": "2026-06-30T14:56:42.481657",
-  "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/": "2026-06-30T15:56:22.269775",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/": "2026-06-30T21:34:59.531121",
   "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/": "2026-06-30T21:35:00.113264",
   "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/": "2026-06-30T22:30:00.181434",
@@ -220,5 +212,8 @@
   "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/": "2026-07-29T16:21:48.123931",
   "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/": "2026-07-29T18:07:47.329167",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/": "2026-07-29T22:01:08.129650",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/": "2026-07-29T22:01:08.567431"
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/": "2026-07-29T22:01:08.567431",
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/": "2026-07-30T16:26:58.657384",
+  "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/": "2026-07-30T16:26:59.223359",
+  "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/": "2026-07-30T16:26:59.787255"
 }
