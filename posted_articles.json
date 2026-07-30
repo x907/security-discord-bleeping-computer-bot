@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/": "2026-06-30T21:34:59.531121",
-  "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/": "2026-06-30T21:35:00.113264",
   "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/": "2026-06-30T22:30:00.181434",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/": "2026-06-30T23:31:01.582959",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/": "2026-07-01T01:00:41.651553",
@@ -219,5 +217,6 @@
   "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/": "2026-07-30T18:16:34.662260",
   "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/": "2026-07-30T18:16:35.123759",
   "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/": "2026-07-30T18:16:35.743544",
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/": "2026-07-30T18:16:36.250759"
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/": "2026-07-30T18:16:36.250759",
+  "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/": "2026-07-30T22:07:52.118751"
 }
