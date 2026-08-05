@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/": "2026-07-06T20:52:27.592452",
-  "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/": "2026-07-06T20:52:28.173072",
   "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/": "2026-07-07T08:23:23.730371",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/": "2026-07-07T08:23:24.152847",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/": "2026-07-07T11:50:54.156747",
@@ -217,5 +215,6 @@
   "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/": "2026-08-05T15:13:19.004697",
   "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/": "2026-08-05T15:13:19.478727",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/": "2026-08-05T17:38:28.880704",
-  "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/": "2026-08-05T19:35:47.597405"
+  "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/": "2026-08-05T19:35:47.597405",
+  "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/": "2026-08-05T21:09:46.660262"
 }
