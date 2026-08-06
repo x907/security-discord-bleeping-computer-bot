@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/": "2026-07-07T08:23:23.730371",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/": "2026-07-07T08:23:24.152847",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/": "2026-07-07T11:50:54.156747",
-  "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/": "2026-07-07T14:37:03.482250",
-  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/": "2026-07-07T14:37:03.987035",
-  "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/": "2026-07-07T14:37:04.497519",
   "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/": "2026-07-07T17:14:47.203016",
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/": "2026-07-07T19:56:21.862709",
   "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/": "2026-07-07T19:56:22.492934",
@@ -218,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/": "2026-08-05T19:35:47.597405",
   "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/": "2026-08-05T21:09:46.660262",
   "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/": "2026-08-05T22:59:49.373623",
-  "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/": "2026-08-06T00:06:27.244816"
+  "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/": "2026-08-06T00:06:27.244816",
+  "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/": "2026-08-06T15:19:12.735849"
 }
