@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/": "2026-07-08T08:30:07.849757",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/": "2026-07-08T08:30:08.339951",
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/": "2026-07-08T11:05:31.448432",
-  "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/": "2026-07-08T14:11:32.448683",
-  "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/": "2026-07-08T14:11:33.086705",
-  "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/": "2026-07-08T14:11:33.769232",
   "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/": "2026-07-08T18:18:05.016509",
   "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/": "2026-07-08T20:21:00.929870",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/": "2026-07-08T20:21:01.521459",
@@ -215,5 +209,7 @@
   "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/": "2026-08-07T00:02:05.669655",
   "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/": "2026-08-07T00:02:06.203087",
   "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/": "2026-08-07T00:02:07.074217",
-  "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/": "2026-08-07T00:02:07.644341"
+  "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/": "2026-08-07T00:02:07.644341",
+  "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/": "2026-08-07T14:52:50.090653",
+  "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/": "2026-08-07T14:52:50.496133"
 }
