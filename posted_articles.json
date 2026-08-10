@@ -1,22 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/": "2026-07-09T15:56:08.727394",
-  "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/": "2026-07-09T15:56:09.396177",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/": "2026-07-09T15:56:09.922963",
-  "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/": "2026-07-09T15:56:10.506767",
-  "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/": "2026-07-09T17:58:58.017627",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/": "2026-07-09T17:58:58.742885",
-  "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/": "2026-07-09T21:35:40.773388",
-  "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/": "2026-07-09T23:12:45.845532",
-  "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/": "2026-07-10T10:55:54.772444",
-  "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/": "2026-07-10T13:13:13.409870",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/": "2026-07-10T16:25:53.192050",
-  "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/": "2026-07-10T16:25:53.785646",
-  "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/": "2026-07-10T16:25:54.349470",
-  "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/": "2026-07-10T18:23:51.207973",
-  "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/": "2026-07-10T18:23:51.784474",
-  "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/": "2026-07-10T18:23:52.391318",
-  "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/": "2026-07-10T22:04:22.916240",
-  "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/": "2026-07-11T10:15:29.926390",
   "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/": "2026-07-11T14:54:51.450863",
   "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/": "2026-07-12T14:57:19.299728",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/": "2026-07-12T20:52:15.040394",
@@ -209,5 +191,6 @@
   "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/": "2026-08-07T15:56:20.213123",
   "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/": "2026-08-07T19:54:12.555771",
   "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/": "2026-08-07T20:41:27.997911",
-  "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/": "2026-08-08T14:32:22.399320"
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/": "2026-08-08T14:32:22.399320",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/": "2026-08-10T11:08:53.796743"
 }
