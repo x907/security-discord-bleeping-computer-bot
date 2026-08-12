@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/": "2026-07-13T20:15:54.775727",
-  "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/": "2026-07-13T20:15:55.454338",
   "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/": "2026-07-13T21:57:29.403685",
   "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/": "2026-07-14T10:47:07.027134",
   "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/": "2026-07-14T12:13:27.380107",
@@ -214,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/": "2026-08-12T14:57:21.704386",
   "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/": "2026-08-12T16:02:34.763469",
   "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/": "2026-08-12T17:56:37.859439",
-  "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/": "2026-08-12T19:07:17.427833"
+  "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/": "2026-08-12T19:07:17.427833",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/": "2026-08-12T21:45:53.919323"
 }
