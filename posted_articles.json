@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/": "2026-07-14T10:47:07.027134",
-  "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/": "2026-07-14T12:13:27.380107",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/": "2026-07-14T12:13:27.745118",
   "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/": "2026-07-14T14:52:10.676861",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/": "2026-07-14T14:52:11.056453",
   "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/": "2026-07-14T14:52:11.539821",
@@ -214,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/": "2026-08-12T19:07:17.427833",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/": "2026-08-12T21:45:53.919323",
   "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/": "2026-08-12T22:41:09.932323",
-  "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/": "2026-08-12T23:41:36.261676"
+  "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/": "2026-08-12T23:41:36.261676",
+  "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/": "2026-08-13T13:12:29.152560"
 }
