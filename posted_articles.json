@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/": "2026-07-14T16:15:39.114861",
-  "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/": "2026-07-14T16:15:39.858807",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/": "2026-07-14T18:04:03.868609",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/": "2026-07-14T18:04:04.346962",
   "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/": "2026-07-14T20:12:12.481797",
@@ -212,5 +210,8 @@
   "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/": "2026-08-13T13:12:29.152560",
   "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/": "2026-08-13T14:57:58.865342",
   "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/": "2026-08-13T14:57:59.704197",
-  "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/": "2026-08-13T16:03:12.136330"
+  "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/": "2026-08-13T16:03:12.136330",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/": "2026-08-13T17:57:05.891411",
+  "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/": "2026-08-13T17:57:06.410733",
+  "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/": "2026-08-13T17:57:06.954852"
 }
