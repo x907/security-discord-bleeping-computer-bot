@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/": "2026-07-15T16:22:41.708102",
   "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/": "2026-07-15T20:09:52.317738",
   "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/": "2026-07-15T22:01:34.534363",
   "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/": "2026-07-15T22:01:35.208719",
@@ -213,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/": "2026-08-14T13:07:30.755224",
   "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/": "2026-08-14T14:52:16.290516",
   "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/": "2026-08-14T14:52:16.766668",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/": "2026-08-14T15:52:27.831374"
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/": "2026-08-14T15:52:27.831374",
+  "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/": "2026-08-14T18:54:46.423562"
 }
