@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/": "2026-07-15T08:12:05.764990",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/": "2026-07-15T10:50:49.143441",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/": "2026-07-15T10:50:49.637833",
   "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/": "2026-07-15T14:51:21.593859",
@@ -211,5 +210,6 @@
   "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/": "2026-08-13T19:09:56.178529",
   "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/": "2026-08-13T21:45:31.903562",
   "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/": "2026-08-13T21:45:32.809000",
-  "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/": "2026-08-14T02:01:22.310084"
+  "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/": "2026-08-14T02:01:22.310084",
+  "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/": "2026-08-14T10:02:53.765540"
 }
