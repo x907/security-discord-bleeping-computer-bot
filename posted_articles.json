@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/": "2026-07-18T19:06:00.578756",
   "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/": "2026-07-18T20:51:45.765441",
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/": "2026-07-19T14:56:28.956965",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/": "2026-07-20T10:12:14.337347",
@@ -201,5 +200,6 @@
   "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/": "2026-08-17T11:26:11.211521",
   "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/": "2026-08-17T12:44:31.521614",
   "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/": "2026-08-17T14:28:03.221931",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/": "2026-08-17T15:25:19.820413"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/": "2026-08-17T15:25:19.820413",
+  "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/": "2026-08-17T19:28:19.878378"
 }
