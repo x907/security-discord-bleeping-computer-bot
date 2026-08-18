@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/": "2026-07-19T14:56:28.956965",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/": "2026-07-20T10:12:14.337347",
   "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/": "2026-07-20T10:12:14.875630",
   "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/": "2026-07-20T13:07:04.189852",
@@ -206,5 +205,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/": "2026-08-18T09:33:58.011919",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/": "2026-08-18T11:25:25.688467",
   "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/": "2026-08-18T11:25:26.424829",
-  "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/": "2026-08-18T14:34:05.507586"
+  "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/": "2026-08-18T14:34:05.507586",
+  "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/": "2026-08-18T18:38:44.214173"
 }
