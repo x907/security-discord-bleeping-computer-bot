@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/": "2026-07-20T18:04:17.036303",
   "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/": "2026-07-20T22:00:01.622392",
   "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/": "2026-07-20T22:00:02.166075",
   "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/": "2026-07-20T23:09:38.235290",
@@ -208,5 +207,7 @@
   "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/": "2026-08-19T10:29:11.142827",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/": "2026-08-19T11:25:25.971979",
   "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/": "2026-08-19T14:34:20.684149",
-  "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/": "2026-08-19T16:31:58.712957"
+  "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/": "2026-08-19T16:31:58.712957",
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/": "2026-08-19T18:35:49.565137",
+  "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/": "2026-08-19T18:35:50.207029"
 }
