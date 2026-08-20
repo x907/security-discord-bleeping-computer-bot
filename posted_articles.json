@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/": "2026-07-20T23:09:38.235290",
-  "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/": "2026-07-20T23:09:38.866238",
-  "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/": "2026-07-20T23:09:39.437061",
   "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/": "2026-07-21T08:30:41.006145",
   "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/": "2026-07-21T11:09:23.008883",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/": "2026-07-21T11:09:23.558364",
@@ -211,5 +208,6 @@
   "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/": "2026-08-19T20:28:04.714417",
   "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/": "2026-08-19T21:25:27.892342",
   "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/": "2026-08-19T21:25:28.511123",
-  "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/": "2026-08-19T22:25:01.537053"
+  "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/": "2026-08-19T22:25:01.537053",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/": "2026-08-20T01:16:42.450478"
 }
