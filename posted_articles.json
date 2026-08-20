@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/": "2026-07-21T11:09:23.008883",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/": "2026-07-21T11:09:23.558364",
   "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/": "2026-07-21T13:52:48.242672",
   "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/": "2026-07-21T15:44:33.720158",
   "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/": "2026-07-21T17:21:07.429296",
@@ -211,5 +209,6 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/": "2026-08-20T01:16:42.450478",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/": "2026-08-20T07:41:03.163047",
   "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/": "2026-08-20T10:30:40.244303",
-  "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/": "2026-08-20T10:30:40.786300"
+  "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/": "2026-08-20T10:30:40.786300",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/": "2026-08-20T11:26:25.467760"
 }
