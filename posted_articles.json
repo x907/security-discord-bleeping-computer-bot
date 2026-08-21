@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/": "2026-07-22T11:47:53.484296",
-  "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/": "2026-07-22T11:47:53.880525",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/": "2026-07-22T11:47:54.288913",
   "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/": "2026-07-22T13:57:20.596661",
   "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/": "2026-07-22T15:45:15.640027",
   "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/": "2026-07-22T15:45:16.362049",
@@ -208,5 +205,6 @@
   "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/": "2026-08-20T18:39:15.752562",
   "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/": "2026-08-21T10:30:50.105025",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/": "2026-08-21T11:26:15.412357",
-  "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/": "2026-08-21T11:26:15.829753"
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/": "2026-08-21T11:26:15.829753",
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/": "2026-08-21T12:49:08.204050"
 }
