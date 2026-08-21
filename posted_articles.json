@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/": "2026-07-22T15:45:15.640027",
-  "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/": "2026-07-22T15:45:16.362049",
   "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/": "2026-07-22T17:20:34.018719",
   "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/": "2026-07-22T21:08:49.459524",
   "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/": "2026-07-22T23:04:33.781771",
@@ -208,5 +206,6 @@
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/": "2026-08-21T12:49:08.204050",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/": "2026-08-21T13:45:28.630386",
   "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/": "2026-08-21T14:35:11.004873",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/": "2026-08-21T15:33:45.937321"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/": "2026-08-21T15:33:45.937321",
+  "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/": "2026-08-21T16:35:08.368524"
 }
