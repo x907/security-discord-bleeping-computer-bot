@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/": "2026-07-21T19:24:05.333647",
-  "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/": "2026-07-21T21:10:32.715603",
-  "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/": "2026-07-21T22:57:50.303292",
-  "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/": "2026-07-21T23:59:31.611536",
-  "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/": "2026-07-22T06:28:45.046189",
-  "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/": "2026-07-22T09:26:37.937430",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/": "2026-07-22T11:47:53.484296",
   "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/": "2026-07-22T11:47:53.880525",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/": "2026-07-22T11:47:54.288913",
@@ -211,5 +205,6 @@
   "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/": "2026-08-20T12:50:51.210720",
   "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/": "2026-08-20T14:36:16.226392",
   "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/": "2026-08-20T15:34:17.424584",
-  "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/": "2026-08-20T18:39:15.752562"
+  "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/": "2026-08-20T18:39:15.752562",
+  "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/": "2026-08-21T10:30:50.105025"
 }
