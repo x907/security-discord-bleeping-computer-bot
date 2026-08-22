@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/": "2026-07-22T21:08:49.459524",
-  "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/": "2026-07-22T23:04:33.781771",
-  "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/": "2026-07-23T08:31:57.717300",
-  "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/": "2026-07-23T11:10:47.753918",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/": "2026-07-23T11:10:48.597744",
   "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/": "2026-07-23T14:02:28.094680",
   "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/": "2026-07-23T14:02:28.488853",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/": "2026-07-23T16:27:00.547222",
@@ -207,5 +202,6 @@
   "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/": "2026-08-21T14:35:11.004873",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/": "2026-08-21T15:33:45.937321",
   "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/": "2026-08-21T16:35:08.368524",
-  "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/": "2026-08-21T18:36:56.943615"
+  "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/": "2026-08-21T18:36:56.943615",
+  "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/": "2026-08-22T13:32:02.133323"
 }
