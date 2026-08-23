@@ -1,14 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/": "2026-07-23T16:27:00.547222",
-  "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/": "2026-07-23T16:27:01.129977",
-  "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/": "2026-07-23T18:12:48.335191",
-  "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/": "2026-07-23T22:04:22.230606",
-  "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/": "2026-07-23T22:04:23.014264",
-  "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/": "2026-07-24T10:18:47.657483",
-  "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/": "2026-07-24T12:19:19.300916",
-  "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/": "2026-07-24T14:55:40.004717",
-  "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/": "2026-07-24T14:55:40.703505",
-  "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/": "2026-07-24T14:55:41.394612",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/": "2026-07-24T16:43:41.416296",
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/": "2026-07-24T18:18:08.430703",
   "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/": "2026-07-24T20:20:12.622428",
@@ -202,5 +192,6 @@
   "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/": "2026-08-21T16:35:08.368524",
   "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/": "2026-08-21T18:36:56.943615",
   "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/": "2026-08-22T13:32:02.133323",
-  "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/": "2026-08-22T15:21:20.907974"
+  "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/": "2026-08-22T15:21:20.907974",
+  "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/": "2026-08-23T15:22:52.543345"
 }
