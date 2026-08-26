@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/": "2026-07-27T16:58:07.591493",
-  "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/": "2026-07-27T16:58:08.179612",
-  "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/": "2026-07-27T18:40:31.199292",
   "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/": "2026-07-27T22:08:29.996982",
   "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/": "2026-07-27T22:08:30.632367",
   "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/": "2026-07-28T00:02:48.479026",
@@ -209,5 +206,7 @@
   "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/": "2026-08-26T14:44:32.067818",
   "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/": "2026-08-26T14:44:32.812312",
   "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/": "2026-08-26T16:17:44.024903",
-  "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/": "2026-08-26T16:17:44.844375"
+  "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/": "2026-08-26T16:17:44.844375",
+  "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/": "2026-08-26T19:03:20.457700",
+  "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/": "2026-08-26T19:03:21.185376"
 }
