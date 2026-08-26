@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/": "2026-07-27T22:08:29.996982",
-  "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/": "2026-07-27T22:08:30.632367",
   "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/": "2026-07-28T00:02:48.479026",
   "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-07-28T00:02:49.068894",
   "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/": "2026-07-28T10:36:02.357385",
@@ -208,5 +206,6 @@
   "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/": "2026-08-26T16:17:44.024903",
   "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/": "2026-08-26T16:17:44.844375",
   "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/": "2026-08-26T19:03:20.457700",
-  "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/": "2026-08-26T19:03:21.185376"
+  "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/": "2026-08-26T19:03:21.185376",
+  "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/": "2026-08-26T22:49:02.794454"
 }
