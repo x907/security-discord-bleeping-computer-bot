@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/": "2026-07-28T00:02:48.479026",
-  "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-07-28T00:02:49.068894",
-  "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/": "2026-07-28T10:36:02.357385",
-  "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/": "2026-07-28T12:54:37.096322",
-  "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/": "2026-07-28T15:22:05.482224",
   "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/": "2026-07-28T21:09:01.931350",
   "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/": "2026-07-28T21:09:02.337904",
   "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/": "2026-07-28T21:09:02.828920",
@@ -207,5 +202,13 @@
   "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/": "2026-08-26T16:17:44.844375",
   "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/": "2026-08-26T19:03:20.457700",
   "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/": "2026-08-26T19:03:21.185376",
-  "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/": "2026-08-26T22:49:02.794454"
+  "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/": "2026-08-26T22:49:02.794454",
+  "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/": "2026-08-27T16:09:58.763650",
+  "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/": "2026-08-27T16:09:59.305720",
+  "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/": "2026-08-27T16:09:59.742867",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/": "2026-08-27T16:10:00.349674",
+  "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/": "2026-08-27T16:10:00.766968",
+  "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/": "2026-08-27T16:10:01.170771",
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/": "2026-08-27T16:10:02.229177",
+  "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/": "2026-08-27T16:10:02.812592"
 }
