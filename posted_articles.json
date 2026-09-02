@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/": "2026-08-03T15:43:22.632496",
-  "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/": "2026-08-03T15:43:23.147636",
   "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/": "2026-08-03T17:51:52.993092",
   "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/": "2026-08-03T19:38:31.530648",
   "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/": "2026-08-03T21:03:44.730864",
@@ -218,5 +216,7 @@
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/": "2026-09-02T08:29:47.847469",
   "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/": "2026-09-02T13:19:41.656619",
   "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/": "2026-09-02T13:19:42.328574",
-  "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/": "2026-09-02T13:19:43.159511"
+  "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/": "2026-09-02T13:19:43.159511",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/": "2026-09-02T17:39:58.008782",
+  "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/": "2026-09-02T17:39:58.624044"
 }
