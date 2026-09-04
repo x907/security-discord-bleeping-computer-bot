@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/": "2026-08-05T00:03:37.758017",
-  "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/": "2026-08-05T00:03:38.322526",
   "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/": "2026-08-05T15:13:19.004697",
   "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/": "2026-08-05T15:13:19.478727",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/": "2026-08-05T17:38:28.880704",
@@ -221,5 +219,7 @@
   "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/": "2026-09-03T17:34:59.084529",
   "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/": "2026-09-03T20:37:33.601579",
   "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/": "2026-09-03T20:37:34.158747",
-  "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/": "2026-09-03T23:00:57.163313"
+  "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/": "2026-09-03T23:00:57.163313",
+  "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/": "2026-09-04T13:12:34.756442",
+  "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/": "2026-09-04T13:12:35.729676"
 }
