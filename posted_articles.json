@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/": "2026-08-05T17:38:28.880704",
-  "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/": "2026-08-05T19:35:47.597405",
-  "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/": "2026-08-05T21:09:46.660262",
-  "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/": "2026-08-05T22:59:49.373623",
-  "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/": "2026-08-06T00:06:27.244816",
   "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/": "2026-08-06T15:19:12.735849",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/": "2026-08-07T00:02:04.598624",
   "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/": "2026-08-07T00:02:05.166494",
@@ -224,5 +219,6 @@
   "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/": "2026-09-04T17:24:06.945591",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/": "2026-09-04T17:24:08.491979",
   "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/": "2026-09-04T17:24:09.244261",
-  "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/": "2026-09-04T17:24:09.977031"
+  "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/": "2026-09-04T17:24:09.977031",
+  "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/": "2026-09-05T13:41:52.206845"
 }
