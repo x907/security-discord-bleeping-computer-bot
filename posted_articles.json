@@ -1,13 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/": "2026-08-07T00:02:04.598624",
-  "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/": "2026-08-07T00:02:05.166494",
-  "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/": "2026-08-07T00:02:05.669655",
-  "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/": "2026-08-07T00:02:06.203087",
-  "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/": "2026-08-07T00:02:07.074217",
-  "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/": "2026-08-07T00:02:07.644341",
-  "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/": "2026-08-07T14:52:50.090653",
-  "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/": "2026-08-07T14:52:50.496133",
-  "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/": "2026-08-07T15:56:20.213123",
   "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/": "2026-08-07T19:54:12.555771",
   "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/": "2026-08-07T20:41:27.997911",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/": "2026-08-08T14:32:22.399320",
@@ -220,5 +211,6 @@
   "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/": "2026-09-04T17:24:09.244261",
   "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/": "2026-09-04T17:24:09.977031",
   "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/": "2026-09-05T13:41:52.206845",
-  "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/": "2026-09-05T16:35:12.396347"
+  "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/": "2026-09-05T16:35:12.396347",
+  "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/": "2026-09-06T16:53:19.533775"
 }
