@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/": "2026-08-10T14:58:55.615989",
-  "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/": "2026-08-10T14:58:56.032348",
   "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/": "2026-08-10T17:51:38.569812",
   "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/": "2026-08-10T19:56:16.386784",
   "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/": "2026-08-10T21:41:25.906300",
@@ -235,5 +233,8 @@
   "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/": "2026-09-09T08:44:33.176137",
   "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/": "2026-09-09T08:44:33.635848",
   "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/": "2026-09-09T13:29:53.917642",
-  "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/": "2026-09-09T13:29:54.512143"
+  "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/": "2026-09-09T13:29:54.512143",
+  "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/": "2026-09-09T17:38:12.901400",
+  "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/": "2026-09-09T17:38:13.366631",
+  "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/": "2026-09-09T17:38:13.885964"
 }
