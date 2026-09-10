@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/": "2026-08-11T11:43:50.951566",
-  "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/": "2026-08-11T13:07:03.917966",
   "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/": "2026-08-11T14:57:45.780274",
   "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/": "2026-08-11T14:57:46.457828",
   "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/": "2026-08-11T14:57:47.212365",
@@ -237,5 +235,8 @@
   "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/": "2026-09-09T23:00:04.790414",
   "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/": "2026-09-10T10:49:44.090170",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/": "2026-09-10T10:49:44.717294",
-  "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/": "2026-09-10T10:49:45.573641"
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/": "2026-09-10T10:49:45.573641",
+  "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/": "2026-09-10T14:53:55.490971",
+  "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/": "2026-09-10T14:53:56.208468",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/": "2026-09-10T14:53:57.140367"
 }
