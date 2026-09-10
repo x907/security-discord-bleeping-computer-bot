@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/": "2026-08-10T23:35:23.281577",
-  "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/": "2026-08-11T10:04:02.967858",
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/": "2026-08-11T11:43:50.951566",
   "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/": "2026-08-11T13:07:03.917966",
   "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/": "2026-08-11T14:57:45.780274",
@@ -236,5 +234,8 @@
   "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/": "2026-09-09T17:38:13.885964",
   "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/": "2026-09-09T23:00:03.177842",
   "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/": "2026-09-09T23:00:04.210511",
-  "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/": "2026-09-09T23:00:04.790414"
+  "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/": "2026-09-09T23:00:04.790414",
+  "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/": "2026-09-10T10:49:44.090170",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/": "2026-09-10T10:49:44.717294",
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/": "2026-09-10T10:49:45.573641"
 }
