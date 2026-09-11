@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/": "2026-08-12T11:46:30.944138",
-  "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/": "2026-08-12T11:46:31.737089",
-  "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/": "2026-08-12T13:10:34.614392",
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/": "2026-08-12T14:57:21.289717",
   "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/": "2026-08-12T14:57:21.704386",
   "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/": "2026-08-12T16:02:34.763469",
@@ -234,5 +231,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/": "2026-09-10T21:27:50.440139",
   "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/": "2026-09-10T23:47:57.059941",
   "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/": "2026-09-11T08:41:07.012646",
-  "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/": "2026-09-11T08:41:08.753029"
+  "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/": "2026-09-11T08:41:08.753029",
+  "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/": "2026-09-11T13:19:58.795018",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/": "2026-09-11T13:19:59.539566"
 }
