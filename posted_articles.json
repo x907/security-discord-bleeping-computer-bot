@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/": "2026-08-12T17:56:37.859439",
-  "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/": "2026-08-12T19:07:17.427833",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/": "2026-08-12T21:45:53.919323",
   "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/": "2026-08-12T22:41:09.932323",
   "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/": "2026-08-12T23:41:36.261676",
@@ -232,5 +230,6 @@
   "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/": "2026-09-11T13:19:58.795018",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/": "2026-09-11T13:19:59.539566",
   "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/": "2026-09-11T17:35:44.163098",
-  "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/": "2026-09-11T17:35:44.817580"
+  "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/": "2026-09-11T17:35:44.817580",
+  "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/": "2026-09-11T20:36:46.068683"
 }
