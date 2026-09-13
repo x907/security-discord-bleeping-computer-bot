@@ -1,18 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/": "2026-08-13T16:03:12.136330",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/": "2026-08-13T17:57:05.891411",
-  "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/": "2026-08-13T17:57:06.410733",
-  "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/": "2026-08-13T17:57:06.954852",
-  "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/": "2026-08-13T19:09:56.178529",
-  "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/": "2026-08-13T21:45:31.903562",
-  "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/": "2026-08-13T21:45:32.809000",
-  "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/": "2026-08-14T02:01:22.310084",
-  "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/": "2026-08-14T10:02:53.765540",
-  "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/": "2026-08-14T11:43:26.022158",
-  "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/": "2026-08-14T13:07:30.755224",
-  "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/": "2026-08-14T14:52:16.290516",
-  "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/": "2026-08-14T14:52:16.766668",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/": "2026-08-14T15:52:27.831374",
   "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/": "2026-08-14T18:54:46.423562",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/": "2026-08-15T01:16:44.685276",
   "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/": "2026-08-15T14:22:34.506068",
@@ -226,5 +212,6 @@
   "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/": "2026-09-11T17:35:44.163098",
   "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/": "2026-09-11T17:35:44.817580",
   "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/": "2026-09-11T20:36:46.068683",
-  "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/": "2026-09-12T16:02:52.408103"
+  "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/": "2026-09-12T16:02:52.408103",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/": "2026-09-13T17:57:09.347632"
 }
