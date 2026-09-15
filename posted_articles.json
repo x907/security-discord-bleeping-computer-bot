@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/": "2026-08-16T15:21:37.280050",
   "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/": "2026-08-16T18:29:16.003355",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/": "2026-08-16T23:19:57.545262",
   "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/": "2026-08-17T01:18:31.115928",
@@ -226,5 +225,9 @@
   "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/": "2026-09-15T13:13:06.958918",
   "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/": "2026-09-15T13:13:07.610344",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/": "2026-09-15T13:13:08.339428",
-  "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/": "2026-09-15T13:13:08.998727"
+  "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/": "2026-09-15T13:13:08.998727",
+  "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/": "2026-09-15T17:58:52.292120",
+  "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/": "2026-09-15T17:58:53.131831",
+  "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/": "2026-09-15T17:58:53.785195",
+  "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/": "2026-09-15T17:58:54.640645"
 }
