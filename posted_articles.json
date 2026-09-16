@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/": "2026-08-17T11:26:11.211521",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/": "2026-08-17T12:44:31.521614",
-  "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/": "2026-08-17T14:28:03.221931",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/": "2026-08-17T15:25:19.820413",
   "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/": "2026-08-17T19:28:19.878378",
   "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/": "2026-08-17T20:27:38.715008",
@@ -228,5 +225,9 @@
   "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/": "2026-09-15T21:12:21.789115",
   "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/": "2026-09-16T00:00:48.512282",
   "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/": "2026-09-16T10:59:17.113048",
-  "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/": "2026-09-16T10:59:17.908429"
+  "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/": "2026-09-16T10:59:17.908429",
+  "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/": "2026-09-16T15:23:21.254279",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/": "2026-09-16T15:23:22.022783",
+  "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/": "2026-09-16T15:23:22.830864",
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/": "2026-09-16T15:23:23.721734"
 }
