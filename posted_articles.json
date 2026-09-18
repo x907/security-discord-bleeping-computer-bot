@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/": "2026-08-19T08:37:59.620104",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/": "2026-08-19T09:34:37.397067",
   "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/": "2026-08-19T10:29:11.142827",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/": "2026-08-19T11:25:25.971979",
@@ -233,5 +232,6 @@
   "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/": "2026-09-17T17:57:32.551804",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/": "2026-09-17T17:57:33.166578",
   "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/": "2026-09-17T21:13:36.442603",
-  "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/": "2026-09-17T23:57:06.171300"
+  "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/": "2026-09-17T23:57:06.171300",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/": "2026-09-18T09:25:11.335713"
 }
