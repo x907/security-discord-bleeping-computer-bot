@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/": "2026-08-19T14:34:20.684149",
-  "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/": "2026-08-19T16:31:58.712957",
   "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/": "2026-08-19T18:35:49.565137",
   "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/": "2026-08-19T18:35:50.207029",
   "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/": "2026-08-19T20:28:04.714417",
@@ -235,5 +233,7 @@
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/": "2026-09-18T14:09:16.247037",
   "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/": "2026-09-18T14:09:17.287885",
   "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/": "2026-09-18T14:09:17.874639",
-  "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": "2026-09-18T14:09:18.430603"
+  "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": "2026-09-18T14:09:18.430603",
+  "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/": "2026-09-18T18:06:19.256658",
+  "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": "2026-09-18T18:06:19.907289"
 }
