@@ -1,16 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/": "2026-08-19T18:35:49.565137",
-  "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/": "2026-08-19T18:35:50.207029",
-  "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/": "2026-08-19T20:28:04.714417",
-  "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/": "2026-08-19T21:25:27.892342",
-  "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/": "2026-08-19T21:25:28.511123",
-  "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/": "2026-08-19T22:25:01.537053",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/": "2026-08-20T01:16:42.450478",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/": "2026-08-20T07:41:03.163047",
-  "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/": "2026-08-20T10:30:40.244303",
-  "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/": "2026-08-20T10:30:40.786300",
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/": "2026-08-20T11:26:25.467760",
-  "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/": "2026-08-20T12:50:51.210720",
   "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/": "2026-08-20T14:36:16.226392",
   "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/": "2026-08-20T15:34:17.424584",
   "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/": "2026-08-20T18:39:15.752562",
@@ -235,5 +223,6 @@
   "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/": "2026-09-18T14:09:17.874639",
   "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": "2026-09-18T14:09:18.430603",
   "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/": "2026-09-18T18:06:19.256658",
-  "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": "2026-09-18T18:06:19.907289"
+  "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": "2026-09-18T18:06:19.907289",
+  "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": "2026-09-19T12:56:06.218019"
 }
