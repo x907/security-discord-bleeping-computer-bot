@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/": "2026-08-20T14:36:16.226392",
-  "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/": "2026-08-20T15:34:17.424584",
   "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/": "2026-08-20T18:39:15.752562",
   "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/": "2026-08-21T10:30:50.105025",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/": "2026-08-21T11:26:15.412357",
@@ -224,5 +222,9 @@
   "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": "2026-09-18T14:09:18.430603",
   "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/": "2026-09-18T18:06:19.256658",
   "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": "2026-09-18T18:06:19.907289",
-  "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": "2026-09-19T12:56:06.218019"
+  "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": "2026-09-19T12:56:06.218019",
+  "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/": "2026-09-19T16:18:31.924573",
+  "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/": "2026-09-19T16:18:32.366876",
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/": "2026-09-19T16:18:32.721654",
+  "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/": "2026-09-19T16:18:33.275041"
 }
