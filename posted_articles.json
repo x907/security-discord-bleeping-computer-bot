@@ -1,10 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/": "2026-08-21T14:35:11.004873",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/": "2026-08-21T15:33:45.937321",
-  "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/": "2026-08-21T16:35:08.368524",
-  "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/": "2026-08-21T18:36:56.943615",
-  "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/": "2026-08-22T13:32:02.133323",
-  "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/": "2026-08-22T15:21:20.907974",
   "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/": "2026-08-23T15:22:52.543345",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/": "2026-08-24T09:48:45.584381",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/": "2026-08-24T11:28:49.225183",
@@ -222,5 +216,10 @@
   "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/": "2026-09-19T16:18:32.721654",
   "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/": "2026-09-19T16:18:33.275041",
   "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/": "2026-09-20T14:33:37.440964",
-  "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/": "2026-09-20T14:33:37.827896"
+  "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/": "2026-09-20T14:33:37.827896",
+  "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/": "2026-09-21T16:16:45.426192",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/": "2026-09-21T16:16:45.932546",
+  "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/": "2026-09-21T16:16:46.418418",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/": "2026-09-21T16:16:46.798063",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/": "2026-09-21T16:16:47.350447"
 }
