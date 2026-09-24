@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/": "2026-08-25T11:28:03.099605",
-  "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/": "2026-08-25T12:48:41.812614",
   "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/": "2026-08-25T13:50:49.922290",
   "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/": "2026-08-25T14:45:48.278370",
   "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/": "2026-08-25T14:45:48.683268",
@@ -238,5 +236,9 @@
   "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/": "2026-09-23T19:30:33.079768",
   "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/": "2026-09-23T22:45:49.295325",
   "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/": "2026-09-23T22:45:49.927621",
-  "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/": "2026-09-24T01:10:25.934300"
+  "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/": "2026-09-24T01:10:25.934300",
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/": "2026-09-24T13:19:20.089962",
+  "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/": "2026-09-24T13:19:20.534743",
+  "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/": "2026-09-24T13:19:20.987000",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/": "2026-09-24T13:19:21.548529"
 }
