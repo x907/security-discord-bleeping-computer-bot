@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/": "2026-08-25T22:28:00.446179",
-  "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/": "2026-08-25T22:28:01.124377",
-  "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/": "2026-08-26T11:30:08.824067",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/": "2026-08-26T12:53:06.139402",
   "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/": "2026-08-26T13:54:46.611213",
   "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/": "2026-08-26T14:44:32.067818",
   "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/": "2026-08-26T14:44:32.812312",
@@ -239,5 +235,9 @@
   "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/": "2026-09-24T18:16:20.981076",
   "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/": "2026-09-24T18:16:21.750298",
   "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/": "2026-09-24T22:02:47.087088",
-  "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/": "2026-09-24T22:02:47.690128"
+  "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/": "2026-09-24T22:02:47.690128",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/": "2026-09-25T13:19:44.792046",
+  "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/": "2026-09-25T13:19:45.530755",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/": "2026-09-25T13:19:46.060299",
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/": "2026-09-25T13:19:46.641161"
 }
