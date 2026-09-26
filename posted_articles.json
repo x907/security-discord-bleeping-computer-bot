@@ -1,12 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/": "2026-08-27T16:09:58.763650",
-  "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/": "2026-08-27T16:09:59.305720",
-  "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/": "2026-08-27T16:09:59.742867",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/": "2026-08-27T16:10:00.349674",
-  "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/": "2026-08-27T16:10:00.766968",
-  "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/": "2026-08-27T16:10:01.170771",
-  "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/": "2026-08-27T16:10:02.229177",
-  "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/": "2026-08-27T16:10:02.812592",
   "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/": "2026-08-28T01:18:51.835215",
   "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/": "2026-08-28T01:18:52.427111",
   "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/": "2026-08-28T01:18:53.115035",
@@ -239,5 +231,8 @@
   "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/": "2026-09-25T18:16:31.460372",
   "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/": "2026-09-25T22:00:53.898591",
   "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/": "2026-09-25T22:00:54.460613",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/": "2026-09-26T12:42:56.241479"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/": "2026-09-26T12:42:56.241479",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/": "2026-09-26T16:53:43.885624",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/": "2026-09-26T16:53:44.529724",
+  "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/": "2026-09-26T16:53:45.207060"
 }
