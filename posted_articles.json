@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/": "2026-08-28T01:18:51.835215",
-  "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/": "2026-08-28T01:18:52.427111",
-  "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/": "2026-08-28T01:18:53.115035",
-  "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/": "2026-08-28T13:54:20.593738",
-  "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/": "2026-08-28T13:54:21.502959",
-  "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/": "2026-08-28T13:54:22.651174",
-  "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/": "2026-08-28T13:54:23.239416",
   "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/": "2026-08-28T23:26:57.136645",
   "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/": "2026-08-28T23:26:57.873683",
   "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/": "2026-08-28T23:26:58.474763",
@@ -235,5 +228,8 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/": "2026-09-26T16:53:43.885624",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/": "2026-09-26T16:53:44.529724",
   "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/": "2026-09-26T16:53:45.207060",
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/": "2026-09-26T19:33:30.219018"
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/": "2026-09-26T19:33:30.219018",
+  "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/": "2026-09-27T18:04:37.050651",
+  "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/": "2026-09-27T18:04:37.655388",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/": "2026-09-27T18:04:38.285919"
 }
