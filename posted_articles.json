@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/": "2026-09-01T13:10:54.066027",
-  "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/": "2026-09-01T13:10:54.943667",
-  "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/": "2026-09-01T13:10:55.621925",
   "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/": "2026-09-01T17:39:15.839065",
   "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/": "2026-09-01T17:39:16.249843",
   "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/": "2026-09-01T17:39:16.817701",
@@ -243,5 +240,10 @@
   "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/": "2026-09-30T21:15:57.260267",
   "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/": "2026-09-30T21:15:57.862619",
   "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/": "2026-09-30T21:15:58.438986",
-  "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/": "2026-10-01T08:26:24.047877"
+  "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/": "2026-10-01T08:26:24.047877",
+  "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/": "2026-10-01T16:03:42.376790",
+  "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/": "2026-10-01T16:03:42.987130",
+  "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/": "2026-10-01T16:03:43.504292",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/": "2026-10-01T16:03:44.006772",
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/": "2026-10-01T16:03:44.521627"
 }
