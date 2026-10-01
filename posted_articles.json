@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/": "2026-08-31T21:44:59.485282",
-  "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/": "2026-08-31T21:45:00.094608",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/": "2026-08-31T21:45:00.760347",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/": "2026-08-31T21:45:01.353806",
   "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/": "2026-09-01T13:10:54.066027",
   "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/": "2026-09-01T13:10:54.943667",
   "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/": "2026-09-01T13:10:55.621925",
@@ -246,5 +242,6 @@
   "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/": "2026-09-30T16:45:09.875494",
   "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/": "2026-09-30T21:15:57.260267",
   "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/": "2026-09-30T21:15:57.862619",
-  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/": "2026-09-30T21:15:58.438986"
+  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/": "2026-09-30T21:15:58.438986",
+  "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/": "2026-10-01T08:26:24.047877"
 }
