@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/": "2026-09-01T23:04:46.806545",
   "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/": "2026-09-02T08:29:47.105293",
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/": "2026-09-02T08:29:47.847469",
   "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/": "2026-09-02T13:19:41.656619",
@@ -242,5 +241,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/": "2026-10-01T16:03:44.006772",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/": "2026-10-01T16:03:44.521627",
   "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/": "2026-10-01T21:35:51.265861",
-  "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/": "2026-10-01T21:35:51.819035"
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/": "2026-10-01T21:35:51.819035",
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/": "2026-10-02T01:20:23.890252"
 }
