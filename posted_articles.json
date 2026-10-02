@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/": "2026-09-02T17:39:58.008782",
-  "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/": "2026-09-02T17:39:58.624044",
   "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/": "2026-09-02T20:38:29.404433",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/": "2026-09-02T23:02:44.634917",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/": "2026-09-03T13:18:44.617290",
@@ -241,5 +239,8 @@
   "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/": "2026-10-02T15:27:24.223078",
   "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/": "2026-10-02T15:27:25.565958",
   "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/": "2026-10-02T15:27:26.671309",
-  "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/": "2026-10-02T15:27:27.604218"
+  "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/": "2026-10-02T15:27:27.604218",
+  "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/": "2026-10-02T20:24:22.533012",
+  "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/": "2026-10-02T20:24:23.123466",
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/": "2026-10-02T20:24:23.738278"
 }
