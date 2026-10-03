@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/": "2026-09-03T17:34:56.235357",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/": "2026-09-03T17:34:56.963824",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/": "2026-09-03T17:34:57.717765",
-  "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/": "2026-09-03T17:34:58.401513",
-  "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/": "2026-09-03T17:34:59.084529",
-  "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/": "2026-09-03T20:37:33.601579",
-  "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/": "2026-09-03T20:37:34.158747",
   "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/": "2026-09-03T23:00:57.163313",
   "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/": "2026-09-04T13:12:34.756442",
   "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/": "2026-09-04T13:12:35.729676",
@@ -238,5 +231,6 @@
   "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/": "2026-10-02T20:24:22.533012",
   "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/": "2026-10-02T20:24:23.123466",
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/": "2026-10-02T20:24:23.738278",
-  "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/": "2026-10-03T17:01:18.398684"
+  "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/": "2026-10-03T17:01:18.398684",
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/": "2026-10-03T20:41:51.604254"
 }
