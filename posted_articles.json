@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/": "2026-09-07T03:23:09.891443",
-  "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/": "2026-09-07T09:01:25.571894",
   "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/": "2026-09-07T15:33:18.901682",
   "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/": "2026-09-07T15:33:19.644856",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/": "2026-09-07T15:33:20.357669",
@@ -244,5 +242,10 @@
   "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/": "2026-10-06T20:00:33.124926",
   "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/": "2026-10-06T20:00:33.781493",
   "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/": "2026-10-06T20:00:35.563923",
-  "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/": "2026-10-07T00:24:13.556007"
+  "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/": "2026-10-07T00:24:13.556007",
+  "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/": "2026-10-07T14:16:00.183392",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/": "2026-10-07T14:16:01.190459",
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/": "2026-10-07T14:16:01.888999",
+  "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/": "2026-10-07T14:16:02.523870",
+  "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/": "2026-10-07T14:16:03.219980"
 }
