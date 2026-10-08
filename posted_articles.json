@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/": "2026-09-08T18:25:04.154581",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/": "2026-09-08T18:25:04.722873",
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/": "2026-09-08T18:25:05.686963",
-  "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/": "2026-09-08T18:25:06.229958",
-  "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/": "2026-09-08T18:25:06.748635",
   "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/": "2026-09-08T21:37:38.192922",
   "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/": "2026-09-08T21:37:38.714894",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/": "2026-09-08T21:37:39.420920",
@@ -244,5 +239,9 @@
   "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/": "2026-10-08T15:17:00.295052",
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/": "2026-10-08T15:17:00.780125",
   "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/": "2026-10-08T15:17:01.309923",
-  "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/": "2026-10-08T15:17:01.761955"
+  "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/": "2026-10-08T15:17:01.761955",
+  "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/": "2026-10-08T21:04:31.016290",
+  "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/": "2026-10-08T21:04:31.636139",
+  "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/": "2026-10-08T21:04:32.415391",
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/": "2026-10-08T21:04:33.184507"
 }
