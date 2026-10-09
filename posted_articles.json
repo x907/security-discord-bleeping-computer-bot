@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/": "2026-09-09T08:44:33.176137",
-  "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/": "2026-09-09T08:44:33.635848",
-  "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/": "2026-09-09T13:29:53.917642",
-  "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/": "2026-09-09T13:29:54.512143",
   "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/": "2026-09-09T17:38:12.901400",
   "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/": "2026-09-09T17:38:13.366631",
   "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/": "2026-09-09T17:38:13.885964",
@@ -240,5 +236,10 @@
   "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/": "2026-10-08T21:04:32.415391",
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/": "2026-10-08T21:04:33.184507",
   "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/": "2026-10-09T08:34:00.233664",
-  "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/": "2026-10-09T08:34:00.943984"
+  "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/": "2026-10-09T08:34:00.943984",
+  "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/": "2026-10-09T15:51:53.572925",
+  "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/": "2026-10-09T15:51:54.305773",
+  "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/": "2026-10-09T15:51:55.225283",
+  "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/": "2026-10-09T15:51:55.934143",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/": "2026-10-09T15:51:56.649773"
 }
