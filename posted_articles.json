@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/": "2026-09-10T14:53:55.490971",
-  "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/": "2026-09-10T14:53:56.208468",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/": "2026-09-10T14:53:57.140367",
-  "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/": "2026-09-10T18:10:46.487741",
-  "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/": "2026-09-10T18:10:48.412087",
   "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/": "2026-09-10T21:27:48.278068",
   "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/": "2026-09-10T21:27:48.912549",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/": "2026-09-10T21:27:50.440139",
@@ -236,5 +231,7 @@
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/": "2026-10-09T20:35:38.051666",
   "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/": "2026-10-09T20:35:38.615912",
   "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/": "2026-10-09T20:35:39.199421",
-  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/": "2026-10-10T13:19:36.700730"
+  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/": "2026-10-10T13:19:36.700730",
+  "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/": "2026-10-10T18:14:48.141206",
+  "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/": "2026-10-10T18:14:48.598932"
 }
