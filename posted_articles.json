@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/": "2026-09-15T21:12:21.789115",
   "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/": "2026-09-16T00:00:48.512282",
   "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/": "2026-09-16T10:59:17.113048",
   "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/": "2026-09-16T10:59:17.908429",
@@ -239,5 +238,8 @@
   "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/": "2026-10-15T13:08:24.968729",
   "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-15T18:03:15.964458",
   "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-15T18:03:16.694190",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": "2026-10-15T18:03:18.550752"
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": "2026-10-15T18:03:18.550752",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": "2026-10-15T21:58:33.822867",
+  "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/": "2026-10-15T21:58:34.496996",
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-15T21:58:35.364310"
 }
