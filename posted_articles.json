@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/": "2026-09-18T18:06:19.256658",
-  "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": "2026-09-18T18:06:19.907289",
   "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": "2026-09-19T12:56:06.218019",
   "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/": "2026-09-19T16:18:31.924573",
   "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/": "2026-09-19T16:18:32.366876",
@@ -223,5 +221,6 @@
   "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T22:37:01.494709",
   "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T15:07:56.912814",
   "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T18:13:42.766162",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T17:06:31.267275"
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T17:06:31.267275",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": "2026-10-19T12:24:31.928231"
 }
