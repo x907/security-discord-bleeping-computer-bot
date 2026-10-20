@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/": "2026-09-20T14:33:37.440964",
-  "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/": "2026-09-20T14:33:37.827896",
   "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/": "2026-09-21T16:16:45.426192",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/": "2026-09-21T16:16:45.932546",
   "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/": "2026-09-21T16:16:46.418418",
@@ -226,5 +224,12 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/": "2026-10-19T19:04:44.973905",
   "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T23:23:19.202199",
   "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T23:23:19.793998",
-  "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": "2026-10-19T23:23:20.453273"
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": "2026-10-19T23:23:20.453273",
+  "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": "2026-10-20T14:45:03.349590",
+  "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:45:03.947862",
+  "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:45:04.515418",
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": "2026-10-20T14:45:05.192322",
+  "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/": "2026-10-20T14:45:05.943815",
+  "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/": "2026-10-20T14:45:06.566182",
+  "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/": "2026-10-20T14:45:07.219596"
 }
