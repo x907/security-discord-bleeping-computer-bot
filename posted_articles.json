@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/": "2026-09-21T16:16:45.426192",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/": "2026-09-21T16:16:45.932546",
-  "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/": "2026-09-21T16:16:46.418418",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/": "2026-09-21T16:16:46.798063",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/": "2026-09-21T16:16:47.350447",
   "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/": "2026-09-21T20:49:57.941580",
   "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/": "2026-09-21T20:49:58.564641",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/": "2026-09-21T20:49:59.324960",
@@ -239,5 +234,8 @@
   "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:21:08.303233",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": "2026-10-21T13:31:34.835079",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": "2026-10-21T13:31:35.522362",
-  "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T13:31:36.136922"
+  "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T13:31:36.136922",
+  "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T18:26:28.108724",
+  "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": "2026-10-21T18:26:28.615433",
+  "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": "2026-10-21T18:26:29.335605"
 }
