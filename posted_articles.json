@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/": "2026-09-21T20:49:57.941580",
-  "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/": "2026-09-21T20:49:58.564641",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/": "2026-09-21T20:49:59.324960",
   "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/": "2026-09-21T23:52:35.040488",
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/": "2026-09-22T09:06:43.896984",
   "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/": "2026-09-22T14:24:47.216829",
@@ -237,5 +234,8 @@
   "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T13:31:36.136922",
   "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T18:26:28.108724",
   "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": "2026-10-21T18:26:28.615433",
-  "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": "2026-10-21T18:26:29.335605"
+  "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": "2026-10-21T18:26:29.335605",
+  "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": "2026-10-21T22:09:34.091100",
+  "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": "2026-10-21T22:09:34.556647",
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T22:09:35.122914"
 }
