@@ -1,12 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/": "2026-09-22T18:33:21.981387",
-  "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/": "2026-09-22T18:33:22.661243",
-  "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/": "2026-09-22T18:33:23.267467",
-  "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/": "2026-09-22T18:33:24.305298",
-  "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/": "2026-09-22T21:49:41.776720",
-  "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/": "2026-09-22T21:49:42.334959",
-  "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/": "2026-09-22T21:49:43.107738",
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/": "2026-09-22T21:49:43.592353",
   "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/": "2026-09-23T10:57:01.359171",
   "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/": "2026-09-23T10:57:01.747896",
   "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/": "2026-09-23T15:22:49.441641",
@@ -239,5 +231,8 @@
   "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T13:32:47.127509",
   "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-10-22T18:21:34.915061",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T18:21:35.849475",
-  "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": "2026-10-22T18:21:36.494990"
+  "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": "2026-10-22T18:21:36.494990",
+  "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T22:09:38.248411",
+  "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T22:09:38.893624",
+  "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/": "2026-10-22T22:09:39.610996"
 }
