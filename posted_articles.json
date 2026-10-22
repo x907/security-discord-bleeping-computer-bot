@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/": "2026-09-22T09:06:43.896984",
   "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/": "2026-09-22T14:24:47.216829",
   "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/": "2026-09-22T14:24:47.629184",
   "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/": "2026-09-22T14:24:48.027345",
@@ -237,5 +236,8 @@
   "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": "2026-10-21T22:09:34.091100",
   "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": "2026-10-21T22:09:34.556647",
   "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T22:09:35.122914",
-  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-22T01:18:05.336525"
+  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-22T01:18:05.336525",
+  "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/": "2026-10-22T13:32:45.838328",
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": "2026-10-22T13:32:46.510551",
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T13:32:47.127509"
 }
