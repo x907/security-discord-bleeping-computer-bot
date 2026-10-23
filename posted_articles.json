@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/": "2026-09-23T15:22:49.441641",
-  "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/": "2026-09-23T15:22:50.077054",
-  "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/": "2026-09-23T15:22:50.791583",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/": "2026-09-23T15:22:51.509943",
   "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/": "2026-09-23T19:30:32.517518",
   "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/": "2026-09-23T19:30:33.079768",
   "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/": "2026-09-23T22:45:49.295325",
@@ -233,5 +229,9 @@
   "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T22:09:38.248411",
   "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T22:09:38.893624",
   "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/": "2026-10-22T22:09:39.610996",
-  "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:08:40.027051"
+  "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:08:40.027051",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T18:07:42.291385",
+  "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": "2026-10-23T18:07:42.938175",
+  "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": "2026-10-23T18:07:43.576818",
+  "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": "2026-10-23T18:07:44.732141"
 }
