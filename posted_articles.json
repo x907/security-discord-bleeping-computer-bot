@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/": "2026-09-28T21:37:25.594511",
-  "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/": "2026-09-28T21:37:26.296522",
-  "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/": "2026-09-28T21:37:26.709724",
-  "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/": "2026-09-28T21:37:27.133598",
-  "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/": "2026-09-28T21:37:27.553419",
   "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/": "2026-09-29T07:58:48.333833",
   "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/": "2026-09-29T14:47:46.549465",
   "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/": "2026-09-29T14:47:46.977424",
@@ -227,5 +222,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/": "2026-10-28T17:59:05.107931",
   "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/": "2026-10-28T17:59:05.593557",
   "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/": "2026-10-28T17:59:06.076653",
-  "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T17:59:06.728703"
+  "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T17:59:06.728703",
+  "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/": "2026-10-28T22:28:49.376252",
+  "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/": "2026-10-28T22:28:49.886867"
 }
