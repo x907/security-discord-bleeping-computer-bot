@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/": "2026-09-29T19:49:21.608333",
-  "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/": "2026-09-29T19:49:21.957432",
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/": "2026-09-29T19:49:22.449869",
-  "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/": "2026-09-29T19:49:22.879153",
-  "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/": "2026-09-29T19:49:23.351907",
   "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/": "2026-09-29T23:29:58.355647",
   "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/": "2026-09-29T23:29:58.762494",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/": "2026-09-30T04:27:49.824879",
@@ -226,5 +221,7 @@
   "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/": "2026-10-29T16:40:53.144104",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/": "2026-10-29T16:40:53.866654",
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/": "2026-10-29T16:40:54.465460",
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/": "2026-10-29T16:40:55.144220"
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/": "2026-10-29T16:40:55.144220",
+  "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": "2026-10-29T21:35:04.277085",
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": "2026-10-29T21:35:07.628962"
 }
