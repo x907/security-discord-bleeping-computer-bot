@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/": "2026-09-29T23:29:58.355647",
-  "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/": "2026-09-29T23:29:58.762494",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/": "2026-09-30T04:27:49.824879",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/": "2026-09-30T16:45:05.408295",
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/": "2026-09-30T16:45:06.059512",
@@ -223,5 +221,10 @@
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/": "2026-10-29T16:40:54.465460",
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/": "2026-10-29T16:40:55.144220",
   "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": "2026-10-29T21:35:04.277085",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": "2026-10-29T21:35:07.628962"
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": "2026-10-29T21:35:07.628962",
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/": "2026-10-30T01:37:45.177970",
+  "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/": "2026-10-30T01:37:46.234034",
+  "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/": "2026-10-30T01:37:46.908875",
+  "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/": "2026-10-30T01:37:47.579659",
+  "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/": "2026-10-30T01:37:48.434039"
 }
