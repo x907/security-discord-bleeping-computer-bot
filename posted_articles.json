@@ -1,7 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/": "2026-09-30T21:15:57.260267",
-  "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/": "2026-09-30T21:15:57.862619",
-  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/": "2026-09-30T21:15:58.438986",
   "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/": "2026-10-01T08:26:24.047877",
   "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/": "2026-10-01T16:03:42.376790",
   "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/": "2026-10-01T16:03:42.987130",
@@ -226,5 +223,6 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/": "2026-10-30T15:38:15.575177",
   "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/": "2026-10-30T15:38:16.200325",
   "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/": "2026-10-30T15:38:16.880803",
-  "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T20:28:33.110914"
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T20:28:33.110914",
+  "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/": "2026-10-31T00:29:02.234703"
 }
