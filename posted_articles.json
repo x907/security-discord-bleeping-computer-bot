@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/": "2026-10-02T20:24:22.533012",
-  "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/": "2026-10-02T20:24:23.123466",
-  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/": "2026-10-02T20:24:23.738278",
-  "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/": "2026-10-03T17:01:18.398684",
   "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/": "2026-10-03T20:41:51.604254",
   "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/": "2026-10-03T23:33:35.901907",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/": "2026-10-04T10:57:41.934486",
@@ -218,5 +214,12 @@
   "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": "2026-10-31T18:16:34.521447",
   "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/": "2026-10-31T18:16:35.164628",
   "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/": "2026-11-01T15:50:53.627565",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/": "2026-11-01T15:50:54.137418"
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/": "2026-11-01T15:50:54.137418",
+  "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/": "2026-11-02T17:55:01.583540",
+  "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/": "2026-11-02T17:55:02.063309",
+  "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/": "2026-11-02T17:55:02.515780",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/": "2026-11-02T17:55:02.980998",
+  "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/": "2026-11-02T17:55:03.473724",
+  "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/": "2026-11-02T17:55:04.124345",
+  "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/": "2026-11-02T17:55:04.529231"
 }
