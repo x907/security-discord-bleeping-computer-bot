@@ -1,12 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/": "2026-10-05T18:01:11.914438",
-  "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/": "2026-10-05T18:01:14.050062",
-  "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/": "2026-10-05T18:01:15.337779",
-  "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/": "2026-10-05T18:01:15.954682",
-  "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/": "2026-10-05T18:01:16.425247",
-  "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/": "2026-10-05T18:01:17.115512",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/": "2026-10-05T18:01:17.737144",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/": "2026-10-05T18:01:18.232840",
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/": "2026-10-06T00:37:22.399718",
   "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/": "2026-10-06T00:37:22.758912",
   "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/": "2026-10-06T14:48:25.109078",
@@ -235,5 +227,10 @@
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/": "2026-11-04T16:54:44.202227",
   "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/": "2026-11-04T16:54:44.695467",
   "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/": "2026-11-04T16:54:45.099026",
-  "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": "2026-11-04T16:54:45.502762"
+  "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": "2026-11-04T16:54:45.502762",
+  "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/": "2026-11-04T22:27:57.000339",
+  "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/": "2026-11-04T22:27:57.430043",
+  "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/": "2026-11-04T22:27:57.857001",
+  "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/": "2026-11-04T22:27:58.340504",
+  "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": "2026-11-04T22:27:58.910810"
 }
