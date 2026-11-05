@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/": "2026-10-06T14:48:25.109078",
-  "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/": "2026-10-06T14:48:25.713977",
-  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/": "2026-10-06T14:48:26.314975",
-  "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/": "2026-10-06T14:48:26.961652",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/": "2026-10-06T20:00:32.473463",
   "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/": "2026-10-06T20:00:33.124926",
   "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/": "2026-10-06T20:00:33.781493",
@@ -231,5 +227,10 @@
   "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/": "2026-11-04T22:27:57.857001",
   "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/": "2026-11-04T22:27:58.340504",
   "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": "2026-11-04T22:27:58.910810",
-  "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/": "2026-11-05T11:56:29.105865"
+  "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/": "2026-11-05T11:56:29.105865",
+  "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/": "2026-11-05T19:43:35.603925",
+  "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/": "2026-11-05T19:43:36.005848",
+  "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/": "2026-11-05T19:43:36.385679",
+  "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/": "2026-11-05T19:43:36.860307",
+  "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/": "2026-11-05T19:43:37.657324"
 }
