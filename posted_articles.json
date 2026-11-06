@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/": "2026-10-06T20:00:32.473463",
-  "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/": "2026-10-06T20:00:33.124926",
-  "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/": "2026-10-06T20:00:33.781493",
-  "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/": "2026-10-06T20:00:35.563923",
-  "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/": "2026-10-07T00:24:13.556007",
   "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/": "2026-10-07T14:16:00.183392",
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/": "2026-10-07T14:16:01.190459",
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/": "2026-10-07T14:16:01.888999",
@@ -232,5 +227,7 @@
   "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/": "2026-11-05T19:43:36.005848",
   "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/": "2026-11-05T19:43:36.385679",
   "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/": "2026-11-05T19:43:36.860307",
-  "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/": "2026-11-05T19:43:37.657324"
+  "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/": "2026-11-05T19:43:37.657324",
+  "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/": "2026-11-06T00:49:31.773138",
+  "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-06T00:49:32.215129"
 }
