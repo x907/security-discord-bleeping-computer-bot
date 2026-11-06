@@ -1,9 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/": "2026-10-07T14:16:00.183392",
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/": "2026-10-07T14:16:01.190459",
-  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/": "2026-10-07T14:16:01.888999",
-  "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/": "2026-10-07T14:16:02.523870",
-  "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/": "2026-10-07T14:16:03.219980",
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/": "2026-10-07T20:25:56.317243",
   "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/": "2026-10-07T20:25:56.978867",
   "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/": "2026-10-08T00:44:41.835852",
@@ -230,5 +225,10 @@
   "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/": "2026-11-05T19:43:37.657324",
   "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/": "2026-11-06T00:49:31.773138",
   "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-06T00:49:32.215129",
-  "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/": "2026-11-06T07:43:47.559024"
+  "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/": "2026-11-06T07:43:47.559024",
+  "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/": "2026-11-06T15:43:36.954045",
+  "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/": "2026-11-06T15:43:37.693613",
+  "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/": "2026-11-06T15:43:38.495037",
+  "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/": "2026-11-06T15:43:39.108940",
+  "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T15:43:39.749436"
 }
