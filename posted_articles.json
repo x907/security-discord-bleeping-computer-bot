@@ -1,6 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/": "2026-10-07T20:25:56.317243",
-  "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/": "2026-10-07T20:25:56.978867",
   "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/": "2026-10-08T00:44:41.835852",
   "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/": "2026-10-08T00:44:42.326955",
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/": "2026-10-08T00:44:42.817831",
@@ -230,5 +228,8 @@
   "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/": "2026-11-06T15:43:37.693613",
   "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/": "2026-11-06T15:43:38.495037",
   "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/": "2026-11-06T15:43:39.108940",
-  "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T15:43:39.749436"
+  "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T15:43:39.749436",
+  "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": "2026-11-06T21:20:11.974490",
+  "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/": "2026-11-06T21:20:12.615540",
+  "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/": "2026-11-06T21:20:13.323104"
 }
