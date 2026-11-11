@@ -1,5 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/": "2026-10-12T12:49:05.108545",
   "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/": "2026-10-12T21:35:38.402550",
   "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/": "2026-10-12T21:35:38.964446",
   "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/": "2026-10-12T21:35:39.537156",
@@ -235,5 +234,12 @@
   "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/": "2026-11-10T20:17:15.297560",
   "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/": "2026-11-10T20:17:15.773734",
   "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/": "2026-11-11T01:03:40.837117",
-  "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/": "2026-11-11T01:03:41.182432"
+  "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/": "2026-11-11T01:03:41.182432",
+  "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/": "2026-11-11T16:59:13.013888",
+  "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": "2026-11-11T16:59:13.471407",
+  "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/": "2026-11-11T16:59:13.881837",
+  "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/": "2026-11-11T16:59:14.442950",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/": "2026-11-11T16:59:14.870996",
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/": "2026-11-11T16:59:15.301644",
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/": "2026-11-11T16:59:15.908155"
 }
