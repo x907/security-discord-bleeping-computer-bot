@@ -1,11 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/": "2026-10-13T22:36:14.606207",
-  "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/": "2026-10-13T22:36:15.135194",
-  "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/": "2026-10-13T22:36:15.698068",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/": "2026-10-13T22:36:16.868106",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/": "2026-10-13T22:36:17.442708",
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/": "2026-10-13T22:36:17.970863",
-  "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/": "2026-10-13T22:36:18.671605",
   "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/": "2026-10-14T13:23:06.708808",
   "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/": "2026-10-14T13:23:07.676809",
   "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/": "2026-10-14T13:23:08.957299",
@@ -241,5 +234,7 @@
   "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/": "2026-11-12T22:05:29.929903",
   "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/": "2026-11-12T22:05:30.500176",
   "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/": "2026-11-12T22:05:31.090007",
-  "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/": "2026-11-12T22:05:31.859120"
+  "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/": "2026-11-12T22:05:31.859120",
+  "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/": "2026-11-13T03:12:41.903173",
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/": "2026-11-13T03:12:42.310354"
 }
